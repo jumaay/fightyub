@@ -1,0 +1,1420 @@
+fileFormatVersion: 2
+guid: 5eef804b136b0034bb1edc545ac58822
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8222284661361496652
+    second: Tatoon_Damage_0
+  - first:
+      213: -2560449093720537975
+    second: Tatoon_Damage_1
+  - first:
+      213: -61346029900327577
+    second: Tatoon_Damage_2
+  - first:
+      213: -1393034184587671364
+    second: Tatoon_Damage_3
+  - first:
+      213: 8110839893269907566
+    second: Jumaay_Damage_0
+  - first:
+      213: 693793908863733305
+    second: Jumaay_Damage_1
+  - first:
+      213: -6198160911487741179
+    second: Jumaay_Damage_2
+  - first:
+      213: 9121611964479897014
+    second: Jumaay_Damage_3
+  - first:
+      213: 4214561382039679141
+    second: Lila_Damage_0
+  - first:
+      213: -3085723365088667953
+    second: Lila_Damage_1
+  - first:
+      213: -3983491580490309315
+    second: Tatoon_Damage_10
+  - first:
+      213: 1494759221398340044
+    second: Tatoon_Damage_11
+  - first:
+      213: 250163943355984430
+    second: Tatoon_Damage_12
+  - first:
+      213: -88179623344152854
+    second: Tatoon_Damage_13
+  - first:
+      213: -2842163298673679506
+    second: Tatoon_Damage_14
+  - first:
+      213: 3774838382984347890
+    second: Tatoon_Damage_15
+  - first:
+      213: -8158256594382442860
+    second: Tatoon_Damage_16
+  - first:
+      213: 4294422423901481722
+    second: Tatoon_Damage_17
+  - first:
+      213: 914569880641960528
+    second: Tatoon_Damage_18
+  - first:
+      213: -2719361405436101750
+    second: Tatoon_Damage_19
+  - first:
+      213: -7120747074077887343
+    second: Tatoon_Damage_20
+  - first:
+      213: 8494902810104835217
+    second: Tatoon_Damage_21
+  - first:
+      213: 7427972671519296533
+    second: Tatoon_Damage_22
+  - first:
+      213: 2006604494025664057
+    second: Tatoon_Damage_23
+  - first:
+      213: -2408478025665350182
+    second: Tatoon_Damage_24
+  - first:
+      213: -1916280421579431700
+    second: Tatoon_Damage_25
+  - first:
+      213: 8643574005376219834
+    second: Tatoon_Damage_26
+  - first:
+      213: 5729154634254704868
+    second: Tatoon_Damage_27
+  - first:
+      213: 1152395130933057517
+    second: Tatoon_Damage_28
+  - first:
+      213: -6395383083920354451
+    second: Tatoon_Damage_29
+  - first:
+      213: -7813062462223545765
+    second: Tatoon_Damage_30
+  - first:
+      213: -4686488438196383719
+    second: Tatoon_Damage_31
+  - first:
+      213: 6330336945037823063
+    second: Tatoon_Damage_32
+  - first:
+      213: 6582046957296955472
+    second: Tatoon_Damage_33
+  - first:
+      213: 5342240884593940472
+    second: Tatoon_Damage_34
+  - first:
+      213: 4364765987524761912
+    second: Tatoon_Damage_35
+  - first:
+      213: 3167045685978974748
+    second: Tatoon_Damage_36
+  - first:
+      213: -3865479340454226322
+    second: Tatoon_Damage_37
+  - first:
+      213: 8604918650926083727
+    second: Tatoon_Damage_38
+  - first:
+      213: 2352898369725443868
+    second: Tatoon_Damage_39
+  - first:
+      213: -5758217979734613180
+    second: Jumaay_Damage_00
+  - first:
+      213: 7970324680117284913
+    second: Jumaay_Damage_01
+  - first:
+      213: -817945213564094693
+    second: Jumaay_Damage_02
+  - first:
+      213: -5548277659199521178
+    second: Jumaay_Damage_03
+  - first:
+      213: -3264337690194439780
+    second: Lila_Damage_2
+  - first:
+      213: 5588064692922272828
+    second: Lila_Damage_3
+  - first:
+      213: -646376159453308474
+    second: Lalo_Damage_0
+  - first:
+      213: 6517109041213145826
+    second: Lalo_Damage_1
+  - first:
+      213: -7384295475243698699
+    second: Lalo_Damage_2
+  - first:
+      213: 974260703324646227
+    second: Lalo_Damage_3
+  - first:
+      213: -2852256364589724813
+    second: Luli_Damage_0
+  - first:
+      213: 8152503113242269382
+    second: Luli_Damage_1
+  - first:
+      213: -4371885206355084995
+    second: Luli_Damage_2
+  - first:
+      213: -8730326269544786360
+    second: Luli_Damage_3
+  - first:
+      213: -5864596558327463112
+    second: Pachi_Damage_0
+  - first:
+      213: 2594108574722128714
+    second: Pachi_Damage_1
+  - first:
+      213: -6976467995965963382
+    second: Pachi_Damage_2
+  - first:
+      213: -1264328184464373571
+    second: Pachi_Damage_3
+  - first:
+      213: 7122566897308856992
+    second: Perla_Damage_0
+  - first:
+      213: 8640140427571774588
+    second: Perla_Damage_1
+  - first:
+      213: -2685988725490454992
+    second: Perla_Damage_2
+  - first:
+      213: -4017695403666215667
+    second: Perla_Damage_3
+  - first:
+      213: -9045803917023200439
+    second: Irma_Damage_0
+  - first:
+      213: 5797101155692116781
+    second: Irma_Damage_1
+  - first:
+      213: 3437466056236383846
+    second: Irma_Damage_2
+  - first:
+      213: 136681030555051736
+    second: Irma_Damage_3
+  - first:
+      213: 3852771688495404302
+    second: Momo_Damage_0
+  - first:
+      213: -1908179885010592486
+    second: Momo_Damage_1
+  - first:
+      213: 8757560219118511556
+    second: Momo_Damage_2
+  - first:
+      213: -2761170613450453290
+    second: Momo_Damage_3
+  - first:
+      213: 3105546308043969511
+    second: Pipi_Damage_0
+  - first:
+      213: 8224156376085480584
+    second: Pipi_Damage_1
+  - first:
+      213: -2889732032386236006
+    second: Pipi_Damage_2
+  - first:
+      213: 9071034022647045901
+    second: Pipi_Damage_3
+  - first:
+      213: -7588646097206680769
+    second: Jere7em_Damage_0
+  - first:
+      213: 2308606943145055297
+    second: Jere7em_Damage_1
+  - first:
+      213: 3806633903396536735
+    second: Jere7em_Damage_2
+  - first:
+      213: -960304051261723484
+    second: Jere7em_Damage_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tatoon_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 900
+        width: 167
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c425892065c6b1270800000000000000
+      internalID: 8222284661361496652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 900
+        width: 144
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98401577d15777cd0800000000000000
+      internalID: -2560449093720537975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 900
+        width: 127
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765196f5c1e062ff0800000000000000
+      internalID: -61346029900327577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 900
+        width: 140
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb80dab2ac2faace0800000000000000
+      internalID: -1393034184587671364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 900
+        width: 158
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688b6ce8ed7f8070800000000000000
+      internalID: 8110839893269907566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 899
+        width: 162
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e072d52e9d0a900800000000000000
+      internalID: 693793908863733305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 900
+        width: 137
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503df028d75bbf9a0800000000000000
+      internalID: -6198160911487741179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 899
+        width: 145
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf6c9d0c9769e70800000000000000
+      internalID: 9121611964479897014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 723
+        width: 153
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fd8c4f312d7a30800000000000000
+      internalID: 4214561382039679141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 723
+        width: 156
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc654c4c2fe4d25d0800000000000000
+      internalID: -3085723365088667953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 722
+        width: 150
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919a0d7a2eb2b2d0800000000000000
+      internalID: -3264337690194439780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 720
+        width: 161
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc88b3b3bcc8d40800000000000000
+      internalID: 5588064692922272828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 711
+        width: 159
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c91180ce4c9707f0800000000000000
+      internalID: -646376159453308474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 711
+        width: 157
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20ff3d42c617a50800000000000000
+      internalID: 6517109041213145826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 711
+        width: 126
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f533919366b58990800000000000000
+      internalID: -7384295475243698699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 710
+        width: 136
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ba944a2f4458d00800000000000000
+      internalID: 974260703324646227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 523
+        width: 155
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b4844c2ffba68d0800000000000000
+      internalID: -2852256364589724813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 523
+        width: 155
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6521f3362832170800000000000000
+      internalID: 8152503113242269382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 523
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397b6c6191f353c0800000000000000
+      internalID: -4371885206355084995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 523
+        width: 141
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846958a5386a7d680800000000000000
+      internalID: -8730326269544786360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 525
+        width: 139
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833c9ed8084cc9ea0800000000000000
+      internalID: -5864596558327463112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 526
+        width: 152
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7b192100200420800000000000000
+      internalID: 2594108574722128714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 524
+        width: 146
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834191125b9e2f90800000000000000
+      internalID: -6976467995965963382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 524
+        width: 140
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db88c750734347ee0800000000000000
+      internalID: -1264328184464373571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 342
+        width: 156
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2fc0b2bd078d260800000000000000
+      internalID: 7122566897308856992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 348
+        width: 153
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7448e201f1f7e770800000000000000
+      internalID: 8640140427571774588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 341
+        width: 151
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eef623c7379bad0800000000000000
+      internalID: -2685988725490454992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 341
+        width: 162
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d61c821574e38c0800000000000000
+      internalID: -4017695403666215667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irma_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 330
+        width: 167
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbef1a349d67280800000000000000
+      internalID: -9045803917023200439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irma_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 331
+        width: 155
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf80869c0737050800000000000000
+      internalID: 5797101155692116781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irma_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 330
+        width: 135
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebe696a2554bf20800000000000000
+      internalID: 3437466056236383846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irma_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 330
+        width: 145
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6a4c15ca695e100800000000000000
+      internalID: 136681030555051736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 181
+        width: 164
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e055375107bc77530800000000000000
+      internalID: 3852771688495404302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 146
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dd56a2188c485e0800000000000000
+      internalID: -1908179885010592486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 180
+        width: 163
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5a6a7ae9a198970800000000000000
+      internalID: 8757560219118511556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 180
+        width: 154
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec905d4f95ea9d0800000000000000
+      internalID: -2761170613450453290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 156
+        width: 165
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e39c7cc9ed191b20800000000000000
+      internalID: 3105546308043969511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 155
+        width: 165
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c6dd86a2122270800000000000000
+      internalID: 8224156376085480584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 155
+        width: 126
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910d89e60c95e7d0800000000000000
+      internalID: -2889732032386236006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 155
+        width: 137
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1c591269c2ed70800000000000000
+      internalID: 9071034022647045901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 170
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3367d9b496bfa690800000000000000
+      internalID: -7588646097206680769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 148
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144592488c1d90020800000000000000
+      internalID: 2308606943145055297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 129
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c8e1ed51e3d430800000000000000
+      internalID: 3806633903396536735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 144
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2d24ad805ca2f0800000000000000
+      internalID: -960304051261723484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_0: 8222284661361496652
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_1: -2560449093720537975
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_10: -3983491580490309315
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_11: 1494759221398340044
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_12: 250163943355984430
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_13: -88179623344152854
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_14: -2842163298673679506
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_15: 3774838382984347890
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_16: -8158256594382442860
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_17: 4294422423901481722
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_18: 914569880641960528
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_19: -2719361405436101750
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_2: -61346029900327577
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_20: -7120747074077887343
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_21: 8494902810104835217
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_22: 7427972671519296533
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_23: 2006604494025664057
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_24: -2408478025665350182
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_25: -1916280421579431700
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_26: 8643574005376219834
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_27: 5729154634254704868
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_28: 1152395130933057517
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_29: -6395383083920354451
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_3: -1393034184587671364
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_30: -7813062462223545765
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_31: -4686488438196383719
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_32: 6330336945037823063
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_33: 6582046957296955472
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_34: 5342240884593940472
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_35: 4364765987524761912
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_36: 3167045685978974748
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_37: -3865479340454226322
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_38: 8604918650926083727
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_39: 2352898369725443868
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_4: 8110839893269907566
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_40: -5758217979734613180
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_41: 7970324680117284913
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_42: -817945213564094693
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_43: -5548277659199521178
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_5: 693793908863733305
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_6: -6198160911487741179
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_7: 9121611964479897014
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_8: 4214561382039679141
+      Fightyub_Todos_Personajes_Dano_Recuperacion_16bit_9: -3085723365088667953
+      Irma_Damage_0: -9045803917023200439
+      Irma_Damage_1: 5797101155692116781
+      Irma_Damage_2: 3437466056236383846
+      Irma_Damage_3: 136681030555051736
+      Jere7em_Damage_0: -7588646097206680769
+      Jere7em_Damage_1: 2308606943145055297
+      Jere7em_Damage_2: 3806633903396536735
+      Jere7em_Damage_3: -960304051261723484
+      Jumaay_Damage_0: 8110839893269907566
+      Jumaay_Damage_1: 693793908863733305
+      Jumaay_Damage_2: -6198160911487741179
+      Jumaay_Damage_3: 9121611964479897014
+      Lalo_Damage_0: -646376159453308474
+      Lalo_Damage_1: 6517109041213145826
+      Lalo_Damage_2: -7384295475243698699
+      Lalo_Damage_3: 974260703324646227
+      Lila_Damage_0: 4214561382039679141
+      Lila_Damage_1: -3085723365088667953
+      Lila_Damage_2: -3264337690194439780
+      Lila_Damage_3: 5588064692922272828
+      Luli_Damage_0: -2852256364589724813
+      Luli_Damage_1: 8152503113242269382
+      Luli_Damage_2: -4371885206355084995
+      Luli_Damage_3: -8730326269544786360
+      Momo_Damage_0: 3852771688495404302
+      Momo_Damage_1: -1908179885010592486
+      Momo_Damage_2: 8757560219118511556
+      Momo_Damage_3: -2761170613450453290
+      Pachi_Damage_0: -5864596558327463112
+      Pachi_Damage_1: 2594108574722128714
+      Pachi_Damage_2: -6976467995965963382
+      Pachi_Damage_3: -1264328184464373571
+      Perla_Damage_0: 7122566897308856992
+      Perla_Damage_1: 8640140427571774588
+      Perla_Damage_2: -2685988725490454992
+      Perla_Damage_3: -4017695403666215667
+      Pipi_Damage_0: 3105546308043969511
+      Pipi_Damage_1: 8224156376085480584
+      Pipi_Damage_2: -2889732032386236006
+      Pipi_Damage_3: 9071034022647045901
+      Tatoon_Damage_0: 8222284661361496652
+      Tatoon_Damage_1: -2560449093720537975
+      Tatoon_Damage_2: -61346029900327577
+      Tatoon_Damage_3: -1393034184587671364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

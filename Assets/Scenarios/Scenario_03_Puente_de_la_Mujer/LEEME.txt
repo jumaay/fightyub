@@ -1,0 +1,13 @@
+ESCENARIO 03 — PUENTE DE LA MUJER, PUERTO MADERO (pixel art 16-bit)
+
+Orden de capas de fondo a frente:
+01_Cielo.png                    velocidad sugerida: 0.04
+02_Perfil_urbano.png            velocidad sugerida: 0.10
+03_Agua.png                     velocidad sugerida: 0.18
+04_Puente_de_la_Mujer.png       velocidad sugerida: 0.28
+05_Paseo_costero.png            velocidad sugerida: 0.60
+06_Piso_de_lucha.png            velocidad sugerida: 1.00
+
+La capa 01 es opaca; las capas 02 a 06 tienen transparencia.
+Ajustar escala y posición en el motor para centrar el puente y alinear
+el paseo y el piso de combate con la línea de pies de los personajes.

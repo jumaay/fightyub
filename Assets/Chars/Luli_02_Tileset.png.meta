@@ -1,0 +1,2252 @@
+fileFormatVersion: 2
+guid: 640b55d502ff34a41b7fb5871825dd85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7580825786094346526
+    second: Luli_02_Tileset_0
+  - first:
+      213: -3509521095605255316
+    second: Luli_02_Tileset_1
+  - first:
+      213: -4569027973759611788
+    second: Luli_02_Tileset_2
+  - first:
+      213: -8181725442518322746
+    second: Luli_02_Tileset_3
+  - first:
+      213: -7218263255834873578
+    second: Luli_02_Tileset_4
+  - first:
+      213: -8239423324700545057
+    second: Luli_02_Tileset_5
+  - first:
+      213: 682607906068684218
+    second: Luli_02_Tileset_6
+  - first:
+      213: 1972481601708985721
+    second: Luli_02_Tileset_7
+  - first:
+      213: 1774233432610401409
+    second: Luli_02_Tileset_8
+  - first:
+      213: -7947521439663912648
+    second: Luli_02_Tileset_9
+  - first:
+      213: 8653106210914278990
+    second: Luli_02_Tileset_10
+  - first:
+      213: 3377390956901126555
+    second: Luli_02_Tileset_11
+  - first:
+      213: 1384104047719843508
+    second: Luli_02_Tileset_12
+  - first:
+      213: -564625051575158218
+    second: Luli_02_Tileset_13
+  - first:
+      213: 1130130907470490098
+    second: Luli_02_Tileset_14
+  - first:
+      213: 6562915171440110665
+    second: Luli_02_Tileset_15
+  - first:
+      213: -1579664949396772182
+    second: Luli_02_Tileset_16
+  - first:
+      213: -365640888536278489
+    second: Luli_02_Tileset_17
+  - first:
+      213: 1497010140094817354
+    second: Luli_02_Tileset_18
+  - first:
+      213: 2980157562155379770
+    second: Luli_02_Tileset_19
+  - first:
+      213: 5345400548136650020
+    second: Luli_02_Tileset_20
+  - first:
+      213: -2743482906221372646
+    second: Luli_02_Tileset_21
+  - first:
+      213: 4326334229600650841
+    second: Luli_02_Tileset_22
+  - first:
+      213: -5855921643309579998
+    second: Luli_02_Tileset_23
+  - first:
+      213: -4345556614707844633
+    second: Luli_02_Tileset_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luli_Portrait
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1418
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc553400b7a5c49b72b125476d041e
+      internalID: 1433723136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1286
+        width: 77
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5c14c8183754468ef51cf0a10e2b3
+      internalID: 1491497341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1286
+        width: 89
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d63164ec7cf643bb20c037e2e64c5
+      internalID: -1872710102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1285
+        width: 89
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71781ba60cd007c4181294e2f35b774e
+      internalID: -1253845335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1286
+        width: 88
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703fc19b1c69724189806c626a875e7
+      internalID: 1922717736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1287
+        width: 89
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56438e40d9ee8429d3d594ac760c40
+      internalID: 105086741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1287
+        width: 86
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2b8623478f7af428574478557881f0
+      internalID: -93488992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1286
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18416e04d075b014db77f92bf1dc4fad
+      internalID: -1638342650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1286
+        width: 82
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8fd751a1f5cd7438988ee958070ecf
+      internalID: -942459637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1186
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829f7bf59cbe2a4f9ec644967d28d87
+      internalID: -151367807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1186
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6787a9234b2593e469a65c1a658dfb34
+      internalID: 1556151826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1186
+        width: 82
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14534fd0889cca943a5c3a7298aaa636
+      internalID: 1405751219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1186
+        width: 82
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ae1f7bb96fb9479fcc8599a2e52ac
+      internalID: -1855621447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1187
+        width: 85
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c7e6ecf4f747418c67e0af0a72d72
+      internalID: -684646840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1186
+        width: 84
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2248082dd62324e9b340f7768a2ab3
+      internalID: -224404987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1186
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6acbebd4678e47a530d2db392775d
+      internalID: 437698696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1186
+        width: 82
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938bc83368c704478cc8952ee514cf2
+      internalID: -1085714117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1041
+        width: 83
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579009843099bab48ac929454ab66f43
+      internalID: 1455545694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1052
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80697a4027e137a4690bab1cbc151637
+      internalID: 52537919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1045
+        width: 73
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250d96ed3c07bf4089250b969338184
+      internalID: -838696702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1067
+        width: 74
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dddd67fd5230545aa99b047d5c8417
+      internalID: -99391472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1061
+        width: 68
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385e266bad24ef469ff5224bf0907dd
+      internalID: 135759515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1062
+        width: 74
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cf0af0dd0dc4478197f1f35a9f24e
+      internalID: 138414369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1040
+        width: 71
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94d2edee5d46a4aa5457b2a39ee023
+      internalID: -1416747908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1039
+        width: 90
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a176a71712cc7a4f8d42a45a8786d2c
+      internalID: 1968571560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 911
+        width: 99
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a91067525d4f4ba6d208a805c7841
+      internalID: 357365354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 911
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0700f0b102dab4ea6a51d9a1d46098
+      internalID: -1689012685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 910
+        width: 104
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d193bb86955f3409e3fd5f8560134a
+      internalID: 1571826294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 911
+        width: 104
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894f61f7db108c4d84c2698678c829b
+      internalID: 2145816664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 911
+        width: 104
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b330a6b6249b439733e41819d3106
+      internalID: 1501984115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 911
+        width: 94
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1a614e54c28f4e807d1d3e10638b6
+      internalID: 981750574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 911
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df685580cd7a3943a6d0c69539023b1
+      internalID: -623863468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 910
+        width: 95
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0105df39a1bec49b373fedbaf61b9b
+      internalID: 742265852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 796
+        width: 102
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9d712614d96c94cbbc29281913dc52
+      internalID: -2141504115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 796
+        width: 98
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b484aa2d9602334eb9c6bb3e9c95191
+      internalID: 2120130264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 796
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f51a3c6259e841acfe56ab6b44883
+      internalID: -1504251813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 796
+        width: 104
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a43ca4381a4554e96d6e6175701599
+      internalID: 1560486774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 796
+        width: 107
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0b3e184ae93a478bdcec0126d6619
+      internalID: -608602533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 796
+        width: 88
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc9b7b65efea8942a5aa498fe08df08
+      internalID: 1953105392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 795
+        width: 91
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274448b0f12dab45a6ca9d82d2dc8c3
+      internalID: 347171568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 795
+        width: 92
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88de6dbe34315e047a1c567060ac281f
+      internalID: -538818322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 702
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681543c5f89b3142aaaa4f2f8ab6394
+      internalID: 421954298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 703
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0435585fb719754d938cce8879fa762
+      internalID: -1497040308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 703
+        width: 104
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bab5dd2f5b47c48b6bd6ac11e5d629
+      internalID: -650021621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 706
+        width: 109
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683c0438c7c91e04a9739b8139eaeff5
+      internalID: -1445117245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 707
+        width: 106
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368516314784a44e9e62a1ca164da93
+      internalID: 1897620446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 707
+        width: 95
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2626703cbfca5944b3717948c5b2a34
+      internalID: -246775633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 701
+        width: 82
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c91bd1b3ae9a4489448ece091b626e
+      internalID: 982116451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 703
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb9f5477483d948aa32640aa6c698c
+      internalID: -2050850057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 565
+        width: 89
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a53536ee6630e47a60f3fb6f166c61
+      internalID: -1716004430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 569
+        width: 68
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e568db51fd9114fae51946f61c6a40
+      internalID: -818304959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 573
+        width: 69
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0024dc7dff9c38040832a971f1f287e8
+      internalID: 467798728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 576
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda55a7ffc0c78742b01fbf483084e95
+      internalID: 8198782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 571
+        width: 89
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72004e3a5162d9a4b8f12d48048ae477
+      internalID: 690854841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 573
+        width: 96
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed148ac2f2f0f49919eb9cb3714462
+      internalID: -1399627281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 563
+        width: 72
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e67412289517344c824e6d0c1f051c7
+      internalID: 828615192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 562
+        width: 86
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6bb68a2dea7b4fa59ae3090894107
+      internalID: -1123504734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 420
+        width: 92
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf680850d87044d958f8ec200fc99b
+      internalID: -1426320232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 419
+        width: 93
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16393bd250945cc44bfb7946e6af2d1c
+      internalID: 1457345186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 419
+        width: 91
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dad981804acf24ea33b04023f28fec
+      internalID: 610529528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 420
+        width: 92
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f561945fc243ac4b956fbe7547c984f
+      internalID: 414183042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 420
+        width: 96
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d64e72db3f3784187f5ca5bb184590
+      internalID: 1391493604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 420
+        width: 95
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e00965a6250c541b9af222b44534ff
+      internalID: 1833447334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 419
+        width: 94
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e3c64429d454945add341c072a16bc
+      internalID: -126720630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 420
+        width: 88
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3950b426b59248b56f99304736165
+      internalID: 450453926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 319
+        width: 80
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50577b3d940374468c66cb9e51cea98
+      internalID: 796005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 319
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc84cbdc6b4a16488e6b43743739583
+      internalID: 542473579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 319
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8dbc75725f88a4582390f6c32e7a98
+      internalID: -1648401761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 320
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31835c792546ffc479ba2ab5b1390872
+      internalID: 1643447653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 321
+        width: 77
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982cbc417987f6043a568424ff8dd20a
+      internalID: 1158319482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 319
+        width: 79
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7db4c1c9cfbd4d9e1821b12d6182c
+      internalID: -1245264628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 319
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47051c56f19464c9eb07d4b8aaa5bd
+      internalID: -2122163810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 319
+        width: 81
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c1cc3ac5a955c4a87bdcb6fd902235
+      internalID: 609536014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 177
+        width: 102
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70897ff4c1497745b0f12ea5c8b959f
+      internalID: -539081210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 85
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb1ee3d791a04f4b994e73fb995cdc8
+      internalID: 129772387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 175
+        width: 81
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe6565e77a53d4aa38ece084db513b
+      internalID: -357521389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 173
+        width: 67
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbec838a3632544b6ae75febd7783f
+      internalID: 1760925682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 186
+        width: 62
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc46217d864db9445918cec5a16c2be9
+      internalID: -146650393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 182
+        width: 71
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdc7c297f5d2e45a55c16aee5b4a26
+      internalID: -142116393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 174
+        width: 92
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034391efdab697488568a0619125882
+      internalID: -1416085336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 174
+        width: 98
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e3c350ebaa864daede09cfc4e298f
+      internalID: 1967799128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 32
+        width: 103
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05e238ac9b5fd43b585de52289e8a0
+      internalID: -1951459001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 29
+        width: 100
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b13b9181f6318845acf00ec9f0d67a2
+      internalID: 1234112984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 134
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c58d26fe2524f4c8784d63646c17ce
+      internalID: 465889246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 29
+        width: 108
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09322de71601c5d48a627b89b81f5505
+      internalID: -250701990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 28
+        width: 89
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6516ad2f51314d88df9ea728afa61
+      internalID: -1702481703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 28
+        width: 108
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0d05bd3caed54187834020f4093e5
+      internalID: -559622102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 31
+        width: 123
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76bc03c6f24ac4da3d364319a9d71b
+      internalID: 646619418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luli_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 28
+        width: 110
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4b5c6bf7a05741b2215c028a874a1
+      internalID: -773118532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6446898c0bc7bee43ac28d5d3ee6d34c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Luli_Portrait: 1433723136
+      Luli_R01_C00: 1491497341
+      Luli_R01_C01: -1872710102
+      Luli_R01_C02: -1253845335
+      Luli_R01_C03: 1922717736
+      Luli_R01_C04: 105086741
+      Luli_R01_C05: -93488992
+      Luli_R01_C06: -1638342650
+      Luli_R01_C07: -942459637
+      Luli_R02_C00: -151367807
+      Luli_R02_C01: 1556151826
+      Luli_R02_C02: 1405751219
+      Luli_R02_C03: -1855621447
+      Luli_R02_C04: -684646840
+      Luli_R02_C05: -224404987
+      Luli_R02_C06: 437698696
+      Luli_R02_C07: -1085714117
+      Luli_R03_C00: 1455545694
+      Luli_R03_C01: 52537919
+      Luli_R03_C02: -838696702
+      Luli_R03_C03: -99391472
+      Luli_R03_C04: 135759515
+      Luli_R03_C05: 138414369
+      Luli_R03_C06: -1416747908
+      Luli_R03_C07: 1968571560
+      Luli_R04_C00: 357365354
+      Luli_R04_C01: -1689012685
+      Luli_R04_C02: 1571826294
+      Luli_R04_C03: 2145816664
+      Luli_R04_C04: 1501984115
+      Luli_R04_C05: 981750574
+      Luli_R04_C06: -623863468
+      Luli_R04_C07: 742265852
+      Luli_R05_C00: -2141504115
+      Luli_R05_C01: 2120130264
+      Luli_R05_C02: -1504251813
+      Luli_R05_C03: 1560486774
+      Luli_R05_C04: -608602533
+      Luli_R05_C05: 1953105392
+      Luli_R05_C06: 347171568
+      Luli_R05_C07: -538818322
+      Luli_R06_C00: 421954298
+      Luli_R06_C01: -1497040308
+      Luli_R06_C02: -650021621
+      Luli_R06_C03: -1445117245
+      Luli_R06_C04: 1897620446
+      Luli_R06_C05: -246775633
+      Luli_R06_C06: 982116451
+      Luli_R06_C07: -2050850057
+      Luli_R07_C00: -1716004430
+      Luli_R07_C01: -818304959
+      Luli_R07_C02: 467798728
+      Luli_R07_C03: 8198782
+      Luli_R07_C04: 690854841
+      Luli_R07_C05: -1399627281
+      Luli_R07_C06: 828615192
+      Luli_R07_C07: -1123504734
+      Luli_R08_C00: -1426320232
+      Luli_R08_C01: 1457345186
+      Luli_R08_C02: 610529528
+      Luli_R08_C03: 414183042
+      Luli_R08_C04: 1391493604
+      Luli_R08_C05: 1833447334
+      Luli_R08_C06: -126720630
+      Luli_R08_C07: 450453926
+      Luli_R09_C00: 796005230
+      Luli_R09_C01: 542473579
+      Luli_R09_C02: -1648401761
+      Luli_R09_C03: 1643447653
+      Luli_R09_C04: 1158319482
+      Luli_R09_C05: -1245264628
+      Luli_R09_C06: -2122163810
+      Luli_R09_C07: 609536014
+      Luli_R10_C00: -539081210
+      Luli_R10_C01: 129772387
+      Luli_R10_C02: -357521389
+      Luli_R10_C03: 1760925682
+      Luli_R10_C04: -146650393
+      Luli_R10_C05: -142116393
+      Luli_R10_C06: -1416085336
+      Luli_R10_C07: 1967799128
+      Luli_R11_C00: -1951459001
+      Luli_R11_C01: 1234112984
+      Luli_R11_C02: 465889246
+      Luli_R11_C03: -250701990
+      Luli_R11_C04: -1702481703
+      Luli_R11_C05: -559622102
+      Luli_R11_C06: 646619418
+      Luli_R11_C07: -773118532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

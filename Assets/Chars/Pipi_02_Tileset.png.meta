@@ -1,0 +1,2382 @@
+fileFormatVersion: 2
+guid: 538a7be2b8292944cab64468cd1cac44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2296776783292018696
+    second: Pipi_02_Tileset_0
+  - first:
+      213: 1125970901341350315
+    second: Pipi_02_Tileset_1
+  - first:
+      213: 2487084180490485098
+    second: Pipi_02_Tileset_2
+  - first:
+      213: -5437908529910378767
+    second: Pipi_02_Tileset_3
+  - first:
+      213: -4697790350370941670
+    second: Pipi_02_Tileset_4
+  - first:
+      213: 9006481269898017667
+    second: Pipi_02_Tileset_5
+  - first:
+      213: -4744957181445557023
+    second: Pipi_02_Tileset_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pipi_Portrait
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1439
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a33ab2097a5b4799e245ebd291a4e
+      internalID: 1558605997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1321
+        width: 83
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c7e4fb66f6994da63901aaf18db59
+      internalID: 1844560090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1321
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb966354d9aad24cbb782275b1edb59
+      internalID: 314084473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1321
+        width: 84
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a853f34b372aa46ae932eeb70c2066
+      internalID: 231099384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1321
+        width: 81
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60ebebb3d0f684db739a0cd57fd745
+      internalID: 46562849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1321
+        width: 85
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1a5a9ca9a3ff408719f51080564bd
+      internalID: 684550947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1321
+        width: 86
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16f13904075d34484e34293123b65c
+      internalID: 978673061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1321
+        width: 86
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a97dbcf4b92b94aab6abd8f73403b3
+      internalID: 1576739134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1321
+        width: 83
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341728cbf2b292469b68794d4e78dba
+      internalID: 1589194888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1219
+        width: 79
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c675ddcb690d314593745aecaa580cf
+      internalID: 2138920793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1219
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f73869cb8d904eada2d28e12256be
+      internalID: -1865208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1220
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a87501e045ec4fbdfbcbd250ce03b
+      internalID: -539646546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1220
+        width: 82
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee046ce979eb14494be48b219ab94b
+      internalID: -651082709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1218
+        width: 81
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35ad19f59365b843a5daa73784dc650
+      internalID: -1059096502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1219
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17479e00c9ab3c04eb0afdb34e184f2a
+      internalID: -764087661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1220
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e339375f32758249b7f54adf9f5a709
+      internalID: 293703980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1220
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d2a89de28f564ca9bc3b0005064bc
+      internalID: 27984191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1096
+        width: 86
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242549bc2c814274aa05b7f679dcad19
+      internalID: -1960407171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1098
+        width: 96
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba449a39274db52408f7ce10f3ff776d
+      internalID: 1634127834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1104
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d5b4ec0559ab46814647190cc870c
+      internalID: 1825610765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1113
+        width: 102
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8df1bc71cf114b9d76fba0ab62691
+      internalID: -1110537549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1125
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd37cedeb5743f42819669fbc3e621d
+      internalID: 796728953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1125
+        width: 102
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb515474dbb119240a6ed984c49034a7
+      internalID: 548926974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1099
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83bf10bf0750c44e8ef094aa59711c7
+      internalID: 2118019056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1098
+        width: 83
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453e7f27e97eef4db05d300a7f273d6
+      internalID: -72432651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 988
+        width: 84
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313890e60dbb8546a31b11250cd701c
+      internalID: -136320506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 984
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa813ee08b1adb4d91d141638caf21f
+      internalID: 2047435796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 984
+        width: 118
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358181d7bd597fe4c9361b7b1df9fb30
+      internalID: -912503375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 983
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02f145b2bb0bc4aad923c40c72889f
+      internalID: 1930594606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 984
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086921b86017d77469ec3fae2d798c6e
+      internalID: -393557590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 982
+        width: 95
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c06198c928814e9de5d2887b107b6
+      internalID: -812320885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 985
+        width: 93
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11579525888828d4a93ae9ebae6a28a1
+      internalID: -203046363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 986
+        width: 88
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ace1ab0ca72c48bc986f3ac355a7c
+      internalID: -31622133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 875
+        width: 89
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2f856e8a4234498a6f0eaff844839
+      internalID: -1064216210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 875
+        width: 114
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b7664a878d59b43b0cc0d9904a018f
+      internalID: 768864744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 875
+        width: 122
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1911e297b6fb47b0b1af750d2a2bb
+      internalID: -1095294067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 875
+        width: 113
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c07b14caad98244a7ace3d845a5aff
+      internalID: -713287540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 875
+        width: 108
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3cd71e075a254899d3713f69c3cd0
+      internalID: -916214865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 875
+        width: 109
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009045028f346f9419ecce8d62183ca3
+      internalID: 161234131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 875
+        width: 90
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41210b1c4b044c44495883a426b720b4
+      internalID: -1654251402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 875
+        width: 86
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848141434c192d44afa4d662d3200dd
+      internalID: 1543281186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 762
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a50f4c9b192d74796c75e583beecfb
+      internalID: -966738702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 762
+        width: 106
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305eddab196ade94c96f5773cd7efccc
+      internalID: -402802842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 764
+        width: 126
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2145bbb4c1a39408c87f0b9d084ef9
+      internalID: 2126300837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 764
+        width: 104
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710631332787a84e80a23399ea4ccf8
+      internalID: 83969246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 762
+        width: 106
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e3a329bd17e84396404a4e917e840
+      internalID: -784232262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 760
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a75211af90f2458f6003fe7ab04cd
+      internalID: 353699644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 762
+        width: 97
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5becaac8ef50a384c944b62494e1b823
+      internalID: -1510111398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 764
+        width: 85
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158099d89d1beb2469ac9f5c6f0cb7e6
+      internalID: -239674996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 642
+        width: 88
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0897cb6be79949be7a9f913011c13
+      internalID: 2058258198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 643
+        width: 113
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60829a255155034d92af822c3284127
+      internalID: -671849825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 653
+        width: 112
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505bb9a7af15784488b37f26437b288
+      internalID: -1043236350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 667
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5dedded1993c84399ca7227c4f2968
+      internalID: -879793515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 659
+        width: 107
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c04ea5db1f4ba4383fa9ab524f4d69
+      internalID: -376589151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 663
+        width: 111
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01770f6ee13199459e80f280dee33ab
+      internalID: 778072828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 642
+        width: 100
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939a246637ee37498309cda7f32824e
+      internalID: 1574901951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 642
+        width: 86
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05450b77d9dbd946a71bb0476102dc8
+      internalID: -2012343647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 534
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d26f35fa70bd4c98411b062defde9
+      internalID: -1788953663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 535
+        width: 107
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612de68c93af9b049a8e8251ca1dce5d
+      internalID: -1152188922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 536
+        width: 108
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20210fe0ec56042833f0ac3ff78098
+      internalID: -973557143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 536
+        width: 103
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9acbae1e141fd438cf82c994b66fd0
+      internalID: 2002135043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 535
+        width: 98
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3df43afb4f4c4087fbfcd5373a454
+      internalID: -881092157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 530
+        width: 87
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2ffd575a0402419d217891dc6ddc7
+      internalID: 341278684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 531
+        width: 86
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827c8ed2b0bfc14abc07dbc167dbfca
+      internalID: -1582112751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 532
+        width: 86
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88283c675565bcc4abc0920217a4f061
+      internalID: 1123127734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 413
+        width: 89
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d36ca9578ca5444a0cf056fa7c45e9
+      internalID: 344584045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 413
+        width: 90
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a337fbf7432c40a16ba96db66fcbb
+      internalID: 359552383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 413
+        width: 87
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389033ed124d9334b97f42e0e9de2335
+      internalID: -1193995825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 413
+        width: 91
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cffaf58ea4d4ad4f8388b57a91624bb
+      internalID: -687068868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 413
+        width: 93
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721a9014e63dcb4bb73f6a2174583fa
+      internalID: -523402541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 413
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5618e29c925b5c4f971f9a5ee886e07
+      internalID: 864537602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 413
+        width: 89
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1b0280d0273148946345dcc3c524c
+      internalID: 20446775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 414
+        width: 89
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d3d1de6ca240a4a953a1044417f925
+      internalID: -479353276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 86
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39f0613b212034b8a1861e6d2631cd
+      internalID: 233836138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 307
+        width: 82
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff949128b1078a4ab8db27bea144252
+      internalID: 616219973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 308
+        width: 84
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f913c93dfbeb429ebbf7e4e395e9e
+      internalID: -859493842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 307
+        width: 84
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a9fcb7e447934e84b30ffc48f69a6
+      internalID: -744624778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 307
+        width: 84
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3950ee9bcdb3b47b93662f0bd2efe9
+      internalID: -962079956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 306
+        width: 86
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8f55025bf0604a997427e231399c7
+      internalID: 2032172610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 306
+        width: 85
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64de2d396009b048aca042983a974a6
+      internalID: -498122662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 307
+        width: 84
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aac80bc9474f745964490166db70e4
+      internalID: 722448903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 165
+        width: 95
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4ae4318948f741a0cb4036eca5c4f
+      internalID: -291108714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 165
+        width: 91
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804256f062d8ffa4790943e9b243b557
+      internalID: -575551674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 165
+        width: 97
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1f19be9b269347accf3de4fedda6d
+      internalID: -1673582404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 165
+        width: 93
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e99f05790c7ae4ea31d705c6179628
+      internalID: -1834585759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 165
+        width: 94
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f547a051f8143448bdb25eabb49ea15
+      internalID: 1519939232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 166
+        width: 97
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa819dd6ece454d9e29873bcf7928e
+      internalID: 1141339210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 165
+        width: 91
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a11b502f5fb324ca519742b2798092
+      internalID: -1182972346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 165
+        width: 94
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58789ba775fbc0341b23720772b24547
+      internalID: 57438788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 105
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac20279c68d9e343b2be435df769ce2
+      internalID: -314268841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 114
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46adb412209235438b8e54d5d4efc4b
+      internalID: -1345125166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 108
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d67a4757aacb24a8cc50420a1fe1e2
+      internalID: 1596852710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 19
+        width: 117
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c33da9aa05d6d40a97882adc4cc595
+      internalID: 48369309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 19
+        width: 107
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc2066e902f674599432f96d641b17
+      internalID: 2182160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 19
+        width: 110
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080e24fa1870f54a95817d67dae1bea
+      internalID: -1239303100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 16
+        width: 113
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d596c9d6ce7bd84dabb390ff657889f
+      internalID: 1315268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipi_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 19
+        width: 113
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798de607c49be9a4a9155284c9535a5a
+      internalID: 1306715057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 169ca2688d9e009458b3b8134aeae7d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pipi_Portrait: 1558605997
+      Pipi_R01_C00: 1844560090
+      Pipi_R01_C01: 314084473
+      Pipi_R01_C02: 231099384
+      Pipi_R01_C03: 46562849
+      Pipi_R01_C04: 684550947
+      Pipi_R01_C05: 978673061
+      Pipi_R01_C06: 1576739134
+      Pipi_R01_C07: 1589194888
+      Pipi_R02_C00: 2138920793
+      Pipi_R02_C01: -1865208342
+      Pipi_R02_C02: -539646546
+      Pipi_R02_C03: -651082709
+      Pipi_R02_C04: -1059096502
+      Pipi_R02_C05: -764087661
+      Pipi_R02_C06: 293703980
+      Pipi_R02_C07: 27984191
+      Pipi_R03_C00: -1960407171
+      Pipi_R03_C01: 1634127834
+      Pipi_R03_C02: 1825610765
+      Pipi_R03_C03: -1110537549
+      Pipi_R03_C04: 796728953
+      Pipi_R03_C05: 548926974
+      Pipi_R03_C06: 2118019056
+      Pipi_R03_C07: -72432651
+      Pipi_R04_C00: -136320506
+      Pipi_R04_C01: 2047435796
+      Pipi_R04_C02: -912503375
+      Pipi_R04_C03: 1930594606
+      Pipi_R04_C04: -393557590
+      Pipi_R04_C05: -812320885
+      Pipi_R04_C06: -203046363
+      Pipi_R04_C07: -31622133
+      Pipi_R05_C00: -1064216210
+      Pipi_R05_C01: 768864744
+      Pipi_R05_C02: -1095294067
+      Pipi_R05_C03: -713287540
+      Pipi_R05_C04: -916214865
+      Pipi_R05_C05: 161234131
+      Pipi_R05_C06: -1654251402
+      Pipi_R05_C07: 1543281186
+      Pipi_R06_C00: -966738702
+      Pipi_R06_C01: -402802842
+      Pipi_R06_C02: 2126300837
+      Pipi_R06_C03: 83969246
+      Pipi_R06_C04: -784232262
+      Pipi_R06_C05: 353699644
+      Pipi_R06_C06: -1510111398
+      Pipi_R06_C07: -239674996
+      Pipi_R07_C00: 2058258198
+      Pipi_R07_C01: -671849825
+      Pipi_R07_C02: -1043236350
+      Pipi_R07_C03: -879793515
+      Pipi_R07_C04: -376589151
+      Pipi_R07_C05: 778072828
+      Pipi_R07_C06: 1574901951
+      Pipi_R07_C07: -2012343647
+      Pipi_R08_C00: -1788953663
+      Pipi_R08_C01: -1152188922
+      Pipi_R08_C02: -973557143
+      Pipi_R08_C03: 2002135043
+      Pipi_R08_C04: -881092157
+      Pipi_R08_C05: 341278684
+      Pipi_R08_C06: -1582112751
+      Pipi_R08_C07: 1123127734
+      Pipi_R09_C00: 344584045
+      Pipi_R09_C01: 359552383
+      Pipi_R09_C02: -1193995825
+      Pipi_R09_C03: -687068868
+      Pipi_R09_C04: -523402541
+      Pipi_R09_C05: 864537602
+      Pipi_R09_C06: 20446775
+      Pipi_R09_C07: -479353276
+      Pipi_R10_C00: 233836138
+      Pipi_R10_C01: 616219973
+      Pipi_R10_C02: -859493842
+      Pipi_R10_C03: -744624778
+      Pipi_R10_C04: -962079956
+      Pipi_R10_C05: 2032172610
+      Pipi_R10_C06: -498122662
+      Pipi_R10_C07: 722448903
+      Pipi_R11_C00: -291108714
+      Pipi_R11_C01: -575551674
+      Pipi_R11_C02: -1673582404
+      Pipi_R11_C03: -1834585759
+      Pipi_R11_C04: 1519939232
+      Pipi_R11_C05: 1141339210
+      Pipi_R11_C06: -1182972346
+      Pipi_R11_C07: 57438788
+      Pipi_R12_C00: -314268841
+      Pipi_R12_C01: -1345125166
+      Pipi_R12_C02: 1596852710
+      Pipi_R12_C03: 48369309
+      Pipi_R12_C04: 2182160
+      Pipi_R12_C05: -1239303100
+      Pipi_R12_C06: 1315268031
+      Pipi_R12_C07: 1306715057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

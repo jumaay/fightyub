@@ -1,0 +1,13 @@
+ESCENARIO 04 — TRIUNVIRATO Y OLAZÁBAL, VILLA URQUIZA (pixel art 16-bit)
+
+Orden de capas de fondo a frente:
+01_Cielo.png                    velocidad parallax sugerida: 0.04
+02_Tejados_lejanos.png          velocidad parallax sugerida: 0.12
+03_Esquina_comercial.png        velocidad parallax sugerida: 0.25
+04_Avenida_y_senales.png        velocidad parallax sugerida: 0.60
+05_Piso_de_lucha.png            velocidad parallax sugerida: 1.00
+
+La capa 01 es opaca; las capas 02 a 05 tienen transparencia.
+La esquina está representada como una fachada porteña comercial-residencial
+inspirada en Villa Urquiza, sin carteles con texto ni marcas reales.
+Ajustar escala y posición en el motor para centrar la esquina y alinear el piso.

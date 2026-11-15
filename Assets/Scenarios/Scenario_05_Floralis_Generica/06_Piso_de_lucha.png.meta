@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: dda1c2882c9b43c49a9d42bdc7fcbdf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -683817479916322214
+    second: 06_Piso_de_lucha_0
+  - first:
+      213: -5202870822548240786
+    second: 06_Piso_de_lucha_1
+  - first:
+      213: 8088419482076363150
+    second: 06_Piso_de_lucha_2
+  - first:
+      213: 2271487123565875656
+    second: 06_Piso_de_lucha_3
+  - first:
+      213: 3974346455122571250
+    second: 06_Piso_de_lucha_4
+  - first:
+      213: -7815173378176933416
+    second: 06_Piso_de_lucha_5
+  - first:
+      213: -4507391621175946275
+    second: 06_Piso_de_lucha_6
+  - first:
+      213: 1017957001520544924
+    second: 06_Piso_de_lucha_7
+  - first:
+      213: -8949549270673664072
+    second: 06_Piso_de_lucha_8
+  - first:
+      213: -7661701448215421552
+    second: 06_Piso_de_lucha_9
+  - first:
+      213: 5313198700307286889
+    second: 06_Piso_de_lucha_10
+  - first:
+      213: -7977684305801013047
+    second: 06_Piso_de_lucha_11
+  - first:
+      213: -8807725509247959004
+    second: 06_Piso_de_lucha_12
+  - first:
+      213: 420876504352525923
+    second: 06_Piso_de_lucha_13
+  - first:
+      213: -6821646653934795542
+    second: 06_Piso_de_lucha_14
+  - first:
+      213: -1705658504733761113
+    second: 06_Piso_de_lucha_15
+  - first:
+      213: -3597958931956105922
+    second: 06_Piso_de_lucha_16
+  - first:
+      213: -1240877267007814950
+    second: 06_Piso_de_lucha_17
+  - first:
+      213: -3993909401084074591
+    second: 06_Piso_de_lucha_18
+  - first:
+      213: 1649956189790004470
+    second: 06_Piso_de_lucha_19
+  - first:
+      213: 3404288672980515468
+    second: 06_Piso_de_lucha_20
+  - first:
+      213: 8279795290501377948
+    second: 06_Piso_de_lucha_21
+  - first:
+      213: 2691127786135149047
+    second: 06_Piso_de_lucha_22
+  - first:
+      213: 7111748744096825741
+    second: 06_Piso_de_lucha_23
+  - first:
+      213: 7189799511198397277
+    second: 06_Piso_de_lucha_24
+  - first:
+      213: -355122702941273980
+    second: 06_Piso_de_lucha_25
+  - first:
+      213: -1689090497451020858
+    second: 06_Piso_de_lucha_26
+  - first:
+      213: 2419400811228281104
+    second: 06_Piso_de_lucha_27
+  - first:
+      213: 1694736526385983568
+    second: 06_Piso_de_lucha_28
+  - first:
+      213: 7400362975172760558
+    second: 06_Piso_de_lucha_29
+  - first:
+      213: -6254107493376580593
+    second: 06_Piso_de_lucha_30
+  - first:
+      213: 6770399644963731691
+    second: 06_Piso_de_lucha_31
+  - first:
+      213: -1088957312403627956
+    second: 06_Piso_de_lucha_32
+  - first:
+      213: -8405794784591968846
+    second: 06_Piso_de_lucha_33
+  - first:
+      213: -7750726988637117248
+    second: 06_Piso_de_lucha_34
+  - first:
+      213: 3903937766413606069
+    second: 06_Piso_de_lucha_35
+  - first:
+      213: 8930913582514532100
+    second: 06_Piso_de_lucha_36
+  - first:
+      213: -5863509849668780273
+    second: 06_Piso_de_lucha_37
+  - first:
+      213: 9122151820020444658
+    second: 06_Piso_de_lucha_38
+  - first:
+      213: -5153578216562597282
+    second: 06_Piso_de_lucha_39
+  - first:
+      213: 2539990445389217107
+    second: 06_Piso_de_lucha_40
+  - first:
+      213: 1396780824453882261
+    second: 06_Piso_de_lucha_41
+  - first:
+      213: 2999536634115457734
+    second: 06_Piso_de_lucha_42
+  - first:
+      213: -8070334378296013730
+    second: 06_Piso_de_lucha_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 518
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52826200a79286f0800000000000000
+      internalID: -683817479916322214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 289
+        width: 170
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6684c98d80bbc7b0800000000000000
+      internalID: -5202870822548240786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_2
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 393
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89b2872aa6df3070800000000000000
+      internalID: 8088419482076363150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_3
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 441
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c194080181f58f10800000000000000
+      internalID: 2271487123565875656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_4
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 351
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe9ef3b07b72730800000000000000
+      internalID: 3974346455122571250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 289
+        width: 218
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1aca7183dea8390800000000000000
+      internalID: -7815173378176933416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_6
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 313
+        width: 146
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35c34a3378271c0800000000000000
+      internalID: -4507391621175946275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_7
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 391
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf040ef72802e00800000000000000
+      internalID: 1017957001520544924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_8
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 385
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d3a5ea50dcc380800000000000000
+      internalID: -8949549270673664072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_9
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 405
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1604502b2ca590800000000000000
+      internalID: -7661701448215421552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 377
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b02e041164cb940800000000000000
+      internalID: 5313198700307286889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 371
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c895863462994190800000000000000
+      internalID: -7977684305801013047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 349
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420012e805ca4c580800000000000000
+      internalID: -8807725509247959004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8d3863f047d500800000000000000
+      internalID: 420876504352525923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 337
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae40cf8c284a451a0800000000000000
+      internalID: -6821646653934795542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_15
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 337
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1683d70a84458e0800000000000000
+      internalID: -1705658504733761113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 315
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dff480a6b711ec0800000000000000
+      internalID: -3597958931956105922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_17
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 320
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2442a33b487cee0800000000000000
+      internalID: -1240877267007814950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_18
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 317
+        width: 9
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a56a437f88c298c0800000000000000
+      internalID: -3993909401084074591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_19
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 351
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4e36ba962d5e610800000000000000
+      internalID: 1649956189790004470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_20
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 384
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab3e9e2867e3f20800000000000000
+      internalID: 3404288672980515468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 364
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f694fc2fdb7e270800000000000000
+      internalID: 8279795290501377948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 344
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d4c9967ec85520800000000000000
+      internalID: 2691127786135149047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_23
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 305
+        width: 113
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c8b79dc102b260800000000000000
+      internalID: 7111748744096825741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_24
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 351
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53f14fef8c47c360800000000000000
+      internalID: 7189799511198397277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_25
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 347
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480428f78c9521bf0800000000000000
+      internalID: -355122702941273980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_26
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 345
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda1f944252f88e0800000000000000
+      internalID: -1689090497451020858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_27
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bd822830739120800000000000000
+      internalID: 2419400811228281104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 353
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bd1344e9e48710800000000000000
+      internalID: 1694736526385983568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 291
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee31028caee53b660800000000000000
+      internalID: 7400362975172760558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_30
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 341
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042e26de52f439a0800000000000000
+      internalID: -6254107493376580593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_31
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 344
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be87e712b9a45fd50800000000000000
+      internalID: 6770399644963731691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_32
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 345
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c402e9a081f33e0f0800000000000000
+      internalID: -1088957312403627956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_33
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 321
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b58091ed2e985b80800000000000000
+      internalID: -8405794784591968846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_34
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 339
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c460437ed2ef6490800000000000000
+      internalID: -7750726988637117248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_35
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9050f6b29d2630800000000000000
+      internalID: 3903937766413606069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 313
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6d75d59af0fb70800000000000000
+      internalID: 8930913582514532100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 321
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ffc71abd0a0aea0800000000000000
+      internalID: -5863509849668780273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_38
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 313
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd6083cfb4689e70800000000000000
+      internalID: 9122151820020444658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_39
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 313
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526897baefca78b0800000000000000
+      internalID: -5153578216562597282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 305
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7f464adbdf3320800000000000000
+      internalID: 2539990445389217107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 305
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a6a662cc526310800000000000000
+      internalID: 1396780824453882261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2093f2dae70a920800000000000000
+      internalID: 2999536634115457734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06_Piso_de_lucha_43
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0b0334a9600090800000000000000
+      internalID: -8070334378296013730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      06_Piso_de_lucha_0: -683817479916322214
+      06_Piso_de_lucha_1: -5202870822548240786
+      06_Piso_de_lucha_10: 5313198700307286889
+      06_Piso_de_lucha_11: -7977684305801013047
+      06_Piso_de_lucha_12: -8807725509247959004
+      06_Piso_de_lucha_13: 420876504352525923
+      06_Piso_de_lucha_14: -6821646653934795542
+      06_Piso_de_lucha_15: -1705658504733761113
+      06_Piso_de_lucha_16: -3597958931956105922
+      06_Piso_de_lucha_17: -1240877267007814950
+      06_Piso_de_lucha_18: -3993909401084074591
+      06_Piso_de_lucha_19: 1649956189790004470
+      06_Piso_de_lucha_2: 8088419482076363150
+      06_Piso_de_lucha_20: 3404288672980515468
+      06_Piso_de_lucha_21: 8279795290501377948
+      06_Piso_de_lucha_22: 2691127786135149047
+      06_Piso_de_lucha_23: 7111748744096825741
+      06_Piso_de_lucha_24: 7189799511198397277
+      06_Piso_de_lucha_25: -355122702941273980
+      06_Piso_de_lucha_26: -1689090497451020858
+      06_Piso_de_lucha_27: 2419400811228281104
+      06_Piso_de_lucha_28: 1694736526385983568
+      06_Piso_de_lucha_29: 7400362975172760558
+      06_Piso_de_lucha_3: 2271487123565875656
+      06_Piso_de_lucha_30: -6254107493376580593
+      06_Piso_de_lucha_31: 6770399644963731691
+      06_Piso_de_lucha_32: -1088957312403627956
+      06_Piso_de_lucha_33: -8405794784591968846
+      06_Piso_de_lucha_34: -7750726988637117248
+      06_Piso_de_lucha_35: 3903937766413606069
+      06_Piso_de_lucha_36: 8930913582514532100
+      06_Piso_de_lucha_37: -5863509849668780273
+      06_Piso_de_lucha_38: 9122151820020444658
+      06_Piso_de_lucha_39: -5153578216562597282
+      06_Piso_de_lucha_4: 3974346455122571250
+      06_Piso_de_lucha_40: 2539990445389217107
+      06_Piso_de_lucha_41: 1396780824453882261
+      06_Piso_de_lucha_42: 2999536634115457734
+      06_Piso_de_lucha_43: -8070334378296013730
+      06_Piso_de_lucha_5: -7815173378176933416
+      06_Piso_de_lucha_6: -4507391621175946275
+      06_Piso_de_lucha_7: 1017957001520544924
+      06_Piso_de_lucha_8: -8949549270673664072
+      06_Piso_de_lucha_9: -7661701448215421552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

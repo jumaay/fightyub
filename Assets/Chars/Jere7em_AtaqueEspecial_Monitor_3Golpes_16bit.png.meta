@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 5e2da143404c90347bd935813c201f00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2224515764685720424
+    second: Jere7em_AtaqueEspecial_Monitor_3Golpes_16bit_0
+  - first:
+      213: 5818645670868038401
+    second: Jere7em_Special_0
+  - first:
+      213: 8990399950864115457
+    second: Jere7em_Special_1
+  - first:
+      213: -2867062107530835661
+    second: Jere7em_Special_2
+  - first:
+      213: -6668403847713717824
+    second: Jere7em_Special_3
+  - first:
+      213: -3827616582353206314
+    second: Jere7em_Special_4
+  - first:
+      213: -9079380231992221374
+    second: Jere7em_Special_5
+  - first:
+      213: -2381758637446789662
+    second: Jere7em_Special_6
+  - first:
+      213: 529344575734569889
+    second: Jere7em_Special_7
+  - first:
+      213: 3255365612934302565
+    second: Jere7em_Special_8
+  - first:
+      213: 3562244916599368110
+    second: Jere7em_Special_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 255
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jere7em_Special_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 396
+        height: 397
+      alignment: 9
+      pivot: {x: 0.5162, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10334fdb86bffb050800000000000000
+      internalID: 5818645670868038401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 397
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4187, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107e1f34f1154cc70800000000000000
+      internalID: 8990399950864115457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 396
+        width: 358
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4592, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33944ab14362638d0800000000000000
+      internalID: -2867062107530835661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 396
+        width: 451
+        height: 397
+      alignment: 9
+      pivot: {x: 0.3474, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10d2ef7021573a0800000000000000
+      internalID: -6668403847713717824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 396
+        width: 381
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4125, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d341787ff291eac0800000000000000
+      internalID: -3827616582353206314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 375
+        height: 396
+      alignment: 9
+      pivot: {x: 0.4972, y: 0.0732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241666b98cf8ff180800000000000000
+      internalID: -9079380231992221374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 456
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3091, y: 0.0732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5044a632b42fed0800000000000000
+      internalID: -2381758637446789662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 0
+        width: 360
+        height: 396
+      alignment: 9
+      pivot: {x: 0.4424, y: 0.0732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5078461c985700800000000000000
+      internalID: 529344575734569889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_8
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 351
+        height: 396
+      alignment: 9
+      pivot: {x: 0.576, y: 0.0732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b88fcf6c16d2d20800000000000000
+      internalID: 3255365612934302565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jere7em_Special_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 441
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3869, y: 0.0732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9a8d8c0e2af6130800000000000000
+      internalID: 3562244916599368110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jere7em_AtaqueEspecial_Monitor_3Golpes_16bit_0: 2224515764685720424
+      Jere7em_Special_0: 5818645670868038401
+      Jere7em_Special_1: 8990399950864115457
+      Jere7em_Special_2: -2867062107530835661
+      Jere7em_Special_3: -6668403847713717824
+      Jere7em_Special_4: -3827616582353206314
+      Jere7em_Special_5: -9079380231992221374
+      Jere7em_Special_6: -2381758637446789662
+      Jere7em_Special_7: 529344575734569889
+      Jere7em_Special_8: 3255365612934302565
+      Jere7em_Special_9: 3562244916599368110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

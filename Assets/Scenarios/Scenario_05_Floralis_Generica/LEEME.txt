@@ -1,0 +1,13 @@
+ESCENARIO 05 — FLORALIS GENÉRICA, RECOLETA (pixel art 16-bit)
+
+Orden de capas de fondo a frente:
+01_Cielo.png                    velocidad parallax sugerida: 0.03
+02_Recoleta_lejana.png          velocidad parallax sugerida: 0.10
+03_Floralis_Generica.png        velocidad parallax sugerida: 0.22
+04_Parque_fondo.png             velocidad parallax sugerida: 0.40
+05_Faroles_y_jardines.png       velocidad parallax sugerida: 0.65
+06_Piso_de_lucha.png            velocidad parallax sugerida: 1.00
+
+La capa 01 es opaca; las capas 02 a 06 tienen transparencia.
+Ajustar escala y posición en el motor para centrar la escultura y alinear
+el piso con la línea de pies de los personajes.

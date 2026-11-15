@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 06f6d223a55d90744aae4edec8088fb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7636139287572968139
+    second: 03_Agua_0
+  - first:
+      213: 499837470194133920
+    second: 03_Agua_1
+  - first:
+      213: 2347109389485394533
+    second: 03_Agua_2
+  - first:
+      213: -8762701487292647721
+    second: 03_Agua_3
+  - first:
+      213: -4236346968820135101
+    second: 03_Agua_4
+  - first:
+      213: 3907729130779793229
+    second: 03_Agua_5
+  - first:
+      213: -1871916295746599228
+    second: 03_Agua_6
+  - first:
+      213: -4985814021847745287
+    second: 03_Agua_7
+  - first:
+      213: 5812775458091078135
+    second: 03_Agua_8
+  - first:
+      213: 6462999993227019312
+    second: 03_Agua_9
+  - first:
+      213: -189758358096015040
+    second: 03_Agua_10
+  - first:
+      213: 5799213512186686088
+    second: 03_Agua_11
+  - first:
+      213: 8835911261941661827
+    second: 03_Agua_12
+  - first:
+      213: -1897443640352160339
+    second: 03_Agua_13
+  - first:
+      213: -7303153669194881978
+    second: 03_Agua_14
+  - first:
+      213: -3918053645549150121
+    second: 03_Agua_15
+  - first:
+      213: -3275614828955339095
+    second: 03_Agua_16
+  - first:
+      213: 301733296256949621
+    second: 03_Agua_17
+  - first:
+      213: -6667133561433100056
+    second: 03_Agua_18
+  - first:
+      213: -1072995277356868052
+    second: 03_Agua_19
+  - first:
+      213: -6288285639035396059
+    second: 03_Agua_20
+  - first:
+      213: 189875553676270668
+    second: 03_Agua_21
+  - first:
+      213: -6976336081178297873
+    second: 03_Agua_22
+  - first:
+      213: -7371916397383968511
+    second: 03_Agua_23
+  - first:
+      213: -6365863344842084522
+    second: 03_Agua_24
+  - first:
+      213: 1965268733864166996
+    second: 03_Agua_25
+  - first:
+      213: -8480357892855658938
+    second: 03_Agua_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03_Agua_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 403
+        width: 393
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f03b593409f960800000000000000
+      internalID: 7636139287572968139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_1
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 626
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe958e787cfe600800000000000000
+      internalID: 499837470194133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_2
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 393
+        width: 136
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac241ed8b929020800000000000000
+      internalID: 2347109389485394533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 401
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d672219c61a46680800000000000000
+      internalID: -8762701487292647721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 498
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b4c2280e87535c0800000000000000
+      internalID: -4236346968820135101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 421
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47539eb0fa0b3630800000000000000
+      internalID: 3907729130779793229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 385
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c642cefb0e9506e0800000000000000
+      internalID: -1871916295746599228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 401
+        width: 262
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7a972094decab0800000000000000
+      internalID: -4985814021847745287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_8
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 405
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f190a25b702ba050800000000000000
+      internalID: 5812775458091078135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_9
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 443
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03406ab504031b950800000000000000
+      internalID: 6462999993227019312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_10
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 472
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041968857c7dd5df0800000000000000
+      internalID: -189758358096015040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_11
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 416
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a688ab6f1fa7050800000000000000
+      internalID: 5799213512186686088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_12
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 419
+        width: 178
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38008e26a767f9a70800000000000000
+      internalID: 8835911261941661827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_13
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 449
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54c7bef0deaa5e0800000000000000
+      internalID: -1897443640352160339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_14
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 391
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6446c8f7e6cf5aa90800000000000000
+      internalID: -7303153669194881978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_15
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 445
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506e16d7f640a9c0800000000000000
+      internalID: -3918053645549150121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_16
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 375
+        width: 84
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a67d130badaa82d0800000000000000
+      internalID: -3275614828955339095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_17
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 417
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d9d4495d8ff2400800000000000000
+      internalID: 301733296256949621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_18
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 449
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0f1b099559973a0800000000000000
+      internalID: -6667133561433100056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_19
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 482
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ed87fea74fb11f0800000000000000
+      internalID: -1072995277356868052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_20
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 451
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ea1f27858bb8a0800000000000000
+      internalID: -6288285639035396059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_21
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 375
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c97606fc292a200800000000000000
+      internalID: 189875553676270668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_22
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 407
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe970afdb431f2f90800000000000000
+      internalID: -6976336081178297873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_23
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 401
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1091d0c3811b1b990800000000000000
+      internalID: -7371916397383968511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_24
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 401
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe1020409e7a7a0800000000000000
+      internalID: -6365863344842084522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_25
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 385
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456c7224089064b10800000000000000
+      internalID: 1965268733864166996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03_Agua_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64688246d67bf4a80800000000000000
+      internalID: -8480357892855658938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      03_Agua_0: 7636139287572968139
+      03_Agua_1: 499837470194133920
+      03_Agua_10: -189758358096015040
+      03_Agua_11: 5799213512186686088
+      03_Agua_12: 8835911261941661827
+      03_Agua_13: -1897443640352160339
+      03_Agua_14: -7303153669194881978
+      03_Agua_15: -3918053645549150121
+      03_Agua_16: -3275614828955339095
+      03_Agua_17: 301733296256949621
+      03_Agua_18: -6667133561433100056
+      03_Agua_19: -1072995277356868052
+      03_Agua_2: 2347109389485394533
+      03_Agua_20: -6288285639035396059
+      03_Agua_21: 189875553676270668
+      03_Agua_22: -6976336081178297873
+      03_Agua_23: -7371916397383968511
+      03_Agua_24: -6365863344842084522
+      03_Agua_25: 1965268733864166996
+      03_Agua_26: -8480357892855658938
+      03_Agua_3: -8762701487292647721
+      03_Agua_4: -4236346968820135101
+      03_Agua_5: 3907729130779793229
+      03_Agua_6: -1871916295746599228
+      03_Agua_7: -4985814021847745287
+      03_Agua_8: 5812775458091078135
+      03_Agua_9: 6462999993227019312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

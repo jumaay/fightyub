@@ -1,0 +1,2563 @@
+fileFormatVersion: 2
+guid: 6110b9f44b03af94594b5d7033c9221c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4399592396596158803
+    second: Momo_02_Tileset_0
+  - first:
+      213: -273400659605701877
+    second: Momo_02_Tileset_1
+  - first:
+      213: -6558566830322589648
+    second: Momo_02_Tileset_2
+  - first:
+      213: -693718682673968933
+    second: Momo_02_Tileset_3
+  - first:
+      213: 902789013130521409
+    second: Momo_02_Tileset_4
+  - first:
+      213: -553110707051168631
+    second: Momo_02_Tileset_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Momo_Portrait
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1429
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6802693ae688f4093c1d880eef66fe
+      internalID: -974663731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1327
+        width: 110
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5318114fc2bd1841a9df17b02609481
+      internalID: -575514915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1326
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb78c7058e84f458c2ff76d7220c3a
+      internalID: 1300836133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1327
+        width: 107
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e2deac06c9414ebd2b7639b1f45dc
+      internalID: -51088900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1327
+        width: 106
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb36be555982e488843b679bbd7230
+      internalID: -602005181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1326
+        width: 107
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aca641150473a46b496dc7477c9e39
+      internalID: -1051604493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1327
+        width: 106
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130edd945af3e94f889d87122799b84
+      internalID: 816072437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1327
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ffc28f789b28d47a5ebbe863ce2267
+      internalID: -481909202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1327
+        width: 105
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7544e5494d974a860b85a10b355be
+      internalID: -323301306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1232
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70079c58513db4193917859d819997
+      internalID: -1225256075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1232
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ec2092effd14448724f661b958f30
+      internalID: -906512500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1232
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1139c6eb055fc8d4ea4c229d8ba7d3e3
+      internalID: -156878877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1232
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae8964ceb03414e94cc6cc51978f23
+      internalID: -126090661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1232
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1796abc046b45a4d9a896f37851e3f8
+      internalID: -175924624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1232
+        width: 113
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e34d2674ab424c9539a4470cc2700
+      internalID: -561260017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1232
+        width: 110
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82cd10eb26dde40a763ed98662705c
+      internalID: -346327013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1232
+        width: 113
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddee87974af45a418ed2880e142dcb9
+      internalID: 65261319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1115
+        width: 95
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bdf7b669a8a8b4ab17a8b8c0f03d55
+      internalID: -1532276291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1132
+        width: 127
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba27d49f449624ba7e78ff41f9c8d5
+      internalID: -1753014700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1125
+        width: 120
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf2ee9a74b0a14fb47fb660c881589
+      internalID: 1434630091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1133
+        width: 121
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae23ec0e9fd12846b0aa822e5aa1d62
+      internalID: -840472518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1132
+        width: 132
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c8cf003fdb6940ae39bbb10b8ac4a
+      internalID: -1211374393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1115
+        width: 124
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f35f6c61994a044840a2dae395e83b
+      internalID: 373869978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1112
+        width: 109
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46888bb380510478429f0eedc9e759
+      internalID: 26071459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1110
+        width: 106
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb74ecc0e1e384297731168454af2a
+      internalID: 1753825925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1005
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e333ac0067fb13543b26598a581c2fab
+      internalID: 40487746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1005
+        width: 104
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9c7d93ee51624487c5f64c5d39e00
+      internalID: 949776517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1006
+        width: 123
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb44278869b1b41845f60bbf13d23e
+      internalID: -1046358394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1006
+        width: 119
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15bb9895ac03f4584749306a2276f0
+      internalID: 1630508593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1006
+        width: 111
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a23c16d2fb41b4eb9819a4a1fa6f94
+      internalID: 2085759729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1006
+        width: 99
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf15c2864346b49a1dd694a3b248c5
+      internalID: -1686465852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1005
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a0b05647f9aa4d82dbd356e420e05
+      internalID: -443011666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1005
+        width: 106
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16052ac7fd69914181d5bf6f4019ee7
+      internalID: 1255059770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 894
+        width: 111
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b128348fdc96fd343a8dd6b7774af85a
+      internalID: -1271417278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 894
+        width: 107
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0da2af428541a4aaa4fe8c7c58e69a
+      internalID: -889315063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 895
+        width: 99
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad6972920f1974ab16d30c5e332bf2
+      internalID: -1452194733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 896
+        width: 122
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a72c4d699f234d8e1890f511830fa
+      internalID: -1841840796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 896
+        width: 113
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3aed33c34d1e42a0a2849826420f8
+      internalID: 1270336748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 894
+        width: 105
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92377bb36aac7fa49b700e69fc9b6bc5
+      internalID: 209805337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 895
+        width: 105
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e4c34fc778814987c9b83557aee67
+      internalID: -1194598538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 894
+        width: 109
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93126cdda9837d4d8bafa508b78fc98
+      internalID: -657925225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 789
+        width: 110
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee19f72712466c4eaf7bf374f30f54d
+      internalID: 924589235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 790
+        width: 114
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62deace85394d43a45beafecf20b27
+      internalID: -722557826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 790
+        width: 116
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1207cddd7954418b56111db761f6e
+      internalID: 1396797543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 791
+        width: 119
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25819c64bfdae48ac05be4efbbc4cc
+      internalID: 1555639784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 790
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04527f1bd3a4e54893d666daabc02da
+      internalID: -1259131763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 789
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a613977653e74880a501da29055d0
+      internalID: 594177307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 789
+        width: 109
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04169a0a1b1040e40b0a29b1b8bfe358
+      internalID: -1006541406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 789
+        width: 109
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e542a20928e3f4687df322b31a434d
+      internalID: -1915159945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 663
+        width: 106
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754d88e38cf65b49a4f12c6497316b2
+      internalID: 380625745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 672
+        width: 110
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec06ff04b9794b46ba04a4f61af29c6
+      internalID: 1124706663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 677
+        width: 117
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ae1f647ae0e464da41b17dd724b979
+      internalID: 1016629104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 676
+        width: 113
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26dbc4d81a505f4ba1dfd5e5792ed7a
+      internalID: -1646408463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 683
+        width: 110
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699b5255cfefe540a02e204a7d8dc56
+      internalID: -1189303438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 682
+        width: 116
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef8d87f5aa8704daa15e95cfec4272
+      internalID: 211253109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 662
+        width: 101
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061b0370525d474482447f7790d9e71
+      internalID: 495269460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 661
+        width: 106
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e795508a2c252439d85135d00bcb7c
+      internalID: 781855233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 540
+        width: 113
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653df6c80a4b9542a323e561fddf5c4
+      internalID: 761879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 557
+        width: 125
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b672103bafe649b894b73294b6c6f
+      internalID: 22651366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 562
+        width: 131
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cccb9d9bfc19c4a82eb8dda3a55570
+      internalID: -283118420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 564
+        width: 125
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406257bf3739da4484e51f05d483c99
+      internalID: -2074118872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 561
+        width: 128
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810bbbe1471d8c4b95fe84eafc99aba
+      internalID: -925996429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 543
+        width: 126
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa798410ca8bffc4f9252d6085203749
+      internalID: -1188404044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 536
+        width: 113
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9c71f6b3b14d4194549f241768a33
+      internalID: 1777289223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 537
+        width: 105
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75226d0eec346db429a29475a4b16df2
+      internalID: -1824480867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 422
+        width: 97
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d7c1d3c6d62241947dde5d66d8c36
+      internalID: 659632066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 422
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8249bc43bb464689ec54db5ee657c
+      internalID: 1465717897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 418
+        width: 81
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aebe3d787bc3948827db60f234d91f
+      internalID: -523459921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 417
+        width: 87
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2212d64b14f4f21459ae7fdada337877
+      internalID: -2072889585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 417
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03517ed57242f408fab70ece8fb53d
+      internalID: -860483794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 416
+        width: 85
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee2360beb1a4a42abe85e3a237877e
+      internalID: -1089990106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 420
+        width: 97
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b16694e4b915a488e416f52d645c36
+      internalID: 255440404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 419
+        width: 96
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b151e374943645abdf2480d7c4dc5
+      internalID: 744135824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 327
+        width: 106
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36d567bc4f997489c3562f10927cb6
+      internalID: 1605583475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 326
+        width: 104
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f9bcc5d08d79478d0c1a3d3db8141
+      internalID: -400118609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 319
+        width: 105
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a234a33e0866e4e93f726e7e4f3c68
+      internalID: 259292960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 320
+        width: 104
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f99a450c31807408cdbe7ff34475dd
+      internalID: -985609766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 322
+        width: 108
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab575ec3f1ed53d479af04dc96928925
+      internalID: 946207343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 322
+        width: 107
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec67e5fb0f916e4e8777a468584be22
+      internalID: 1233451215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 323
+        width: 113
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6280ebf1d9cb4c9af2fdb386fc652
+      internalID: -2010812207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 113
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5158bcf4130b45994f77214fce62f
+      internalID: -994649622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 107
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2352e1291326c394183035e38b8fad81
+      internalID: -640298530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 220
+        width: 97
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d7d21b3502074fba3a9fc48fd523c
+      internalID: 531896868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 217
+        width: 103
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d4e0f32753af64893469f6845a1706
+      internalID: -1367652888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 215
+        width: 104
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5287998697a44baac3b52647ce35e
+      internalID: 1455051107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 214
+        width: 107
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e00d6f85a46948a20b01c7706c29c
+      internalID: -690953147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 210
+        width: 103
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d274a9d61a20a04e83e99b7f97b1e7e
+      internalID: -1890575302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 210
+        width: 106
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd502efabecc26419d26c81a365ee01
+      internalID: -576112511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 210
+        width: 108
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4a3a935cac7484fa6f30f897ebc305
+      internalID: 829417973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 115
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7732891e99f6842b13016c725d209f
+      internalID: 1152883292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 111
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771bfd97ed944b447a6f89329db5219e
+      internalID: 53559335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 116
+        width: 118
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7341ffb4ae7348b9c37e67e309ba1
+      internalID: 769286199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 117
+        width: 112
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca775fc3e452948b1bde3bc5a6a983
+      internalID: 1553358406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 113
+        width: 119
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929af990899cc249b8a3b4ca4f71fe9
+      internalID: 1566893714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 112
+        width: 118
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f004d983e05946a1781db033ef2f9
+      internalID: 436810882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 111
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bc30898390b74a8b0ff11316cc1d0
+      internalID: -1097800903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 110
+        width: 107
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebf21ab7fa5f040a7e7e5efcf098fe
+      internalID: 1777190112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 121
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a916d866d006a24f8127c2e61084393
+      internalID: -100451944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 124
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b3e12ad7ce7d4cbdb0a39d22c1760
+      internalID: -1529536051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 14
+        width: 109
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b0942120acf349b0e397c78356622
+      internalID: 982119858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C03
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 16
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f548695f0ca2b8439c9aab62bb60a5b
+      internalID: 100197732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 20
+        width: 121
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf54c319ac07443a490008e99f50ad
+      internalID: -1634262397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 9
+        width: 123
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687b8a2bcfbe424aaf01e6b41090886
+      internalID: 2111485604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C06
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 8
+        width: 113
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a53e5db463ac243859a4e9259a1fb2
+      internalID: -1918713464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momo_R13_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 8
+        width: 115
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38d7dfe7028524ca25786b4422b64f
+      internalID: -920361929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 93a7157a1064be547b490bd3152477c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Momo_Portrait: -974663731
+      Momo_R01_C00: -575514915
+      Momo_R01_C01: 1300836133
+      Momo_R01_C02: -51088900
+      Momo_R01_C03: -602005181
+      Momo_R01_C04: -1051604493
+      Momo_R01_C05: 816072437
+      Momo_R01_C06: -481909202
+      Momo_R01_C07: -323301306
+      Momo_R02_C00: -1225256075
+      Momo_R02_C01: -906512500
+      Momo_R02_C02: -156878877
+      Momo_R02_C03: -126090661
+      Momo_R02_C04: -175924624
+      Momo_R02_C05: -561260017
+      Momo_R02_C06: -346327013
+      Momo_R02_C07: 65261319
+      Momo_R03_C00: -1532276291
+      Momo_R03_C01: -1753014700
+      Momo_R03_C02: 1434630091
+      Momo_R03_C03: -840472518
+      Momo_R03_C04: -1211374393
+      Momo_R03_C05: 373869978
+      Momo_R03_C06: 26071459
+      Momo_R03_C07: 1753825925
+      Momo_R04_C00: 40487746
+      Momo_R04_C01: 949776517
+      Momo_R04_C02: -1046358394
+      Momo_R04_C03: 1630508593
+      Momo_R04_C04: 2085759729
+      Momo_R04_C05: -1686465852
+      Momo_R04_C06: -443011666
+      Momo_R04_C07: 1255059770
+      Momo_R05_C00: -1271417278
+      Momo_R05_C01: -889315063
+      Momo_R05_C02: -1452194733
+      Momo_R05_C03: -1841840796
+      Momo_R05_C04: 1270336748
+      Momo_R05_C05: 209805337
+      Momo_R05_C06: -1194598538
+      Momo_R05_C07: -657925225
+      Momo_R06_C00: 924589235
+      Momo_R06_C01: -722557826
+      Momo_R06_C02: 1396797543
+      Momo_R06_C03: 1555639784
+      Momo_R06_C04: -1259131763
+      Momo_R06_C05: 594177307
+      Momo_R06_C06: -1006541406
+      Momo_R06_C07: -1915159945
+      Momo_R07_C00: 380625745
+      Momo_R07_C01: 1124706663
+      Momo_R07_C02: 1016629104
+      Momo_R07_C03: -1646408463
+      Momo_R07_C04: -1189303438
+      Momo_R07_C05: 211253109
+      Momo_R07_C06: 495269460
+      Momo_R07_C07: 781855233
+      Momo_R08_C00: 761879598
+      Momo_R08_C01: 22651366
+      Momo_R08_C02: -283118420
+      Momo_R08_C03: -2074118872
+      Momo_R08_C04: -925996429
+      Momo_R08_C05: -1188404044
+      Momo_R08_C06: 1777289223
+      Momo_R08_C07: -1824480867
+      Momo_R09_C00: 659632066
+      Momo_R09_C01: 1465717897
+      Momo_R09_C02: -523459921
+      Momo_R09_C03: -2072889585
+      Momo_R09_C04: -860483794
+      Momo_R09_C05: -1089990106
+      Momo_R09_C06: 255440404
+      Momo_R09_C07: 744135824
+      Momo_R10_C00: 1605583475
+      Momo_R10_C01: -400118609
+      Momo_R10_C02: 259292960
+      Momo_R10_C03: -985609766
+      Momo_R10_C04: 946207343
+      Momo_R10_C05: 1233451215
+      Momo_R10_C06: -2010812207
+      Momo_R10_C07: -994649622
+      Momo_R11_C00: -640298530
+      Momo_R11_C01: 531896868
+      Momo_R11_C02: -1367652888
+      Momo_R11_C03: 1455051107
+      Momo_R11_C04: -690953147
+      Momo_R11_C05: -1890575302
+      Momo_R11_C06: -576112511
+      Momo_R11_C07: 829417973
+      Momo_R12_C00: 1152883292
+      Momo_R12_C01: 53559335
+      Momo_R12_C02: 769286199
+      Momo_R12_C03: 1553358406
+      Momo_R12_C04: 1566893714
+      Momo_R12_C05: 436810882
+      Momo_R12_C06: -1097800903
+      Momo_R12_C07: 1777190112
+      Momo_R13_C00: -100451944
+      Momo_R13_C01: -1529536051
+      Momo_R13_C02: 982119858
+      Momo_R13_C03: 100197732
+      Momo_R13_C04: -1634262397
+      Momo_R13_C05: 2111485604
+      Momo_R13_C06: -1918713464
+      Momo_R13_C07: -920361929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

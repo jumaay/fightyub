@@ -1,0 +1,11 @@
+ESCENARIO 01 — FRENTE DEL OBELISCO (pixel art 16-bit)
+
+Capas en orden de fondo a frente:
+01_Cielo.png                 velocidad parallax sugerida: 0.05
+02_Ciudad_lejana.png         velocidad parallax sugerida: 0.12
+03_Obelisco_central.png      velocidad parallax sugerida: 0.20
+04_Avenida_laterales.png     velocidad parallax sugerida: 0.55
+05_Piso_de_lucha.png         velocidad parallax sugerida: 1.00
+
+Las capas 02 a 05 tienen transparencia. Ajustar escala y posición en el motor
+para alinear el Obelisco con el centro del escenario y el piso con la línea de pies.

@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: d3480e2c22da43941b2d91fae3c00ad6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6817676156542552769
+    second: Perla_02_Tileset_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perla_Portrait
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1421
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0913af25797ce449a23b34a428657a1
+      internalID: -1728073093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1315
+        width: 119
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef7c5f57f2df74cbfd8a9f62253d02
+      internalID: 1241707574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1315
+        width: 115
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc55a8c8c526ea46a36d1e12c3d572f
+      internalID: 947611051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1315
+        width: 114
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056838cc31d73d4da2124291addb70c
+      internalID: -115437242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1315
+        width: 116
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7109f13ce1731a4cb7f4ea6b58b9ead
+      internalID: 1120528980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1316
+        width: 117
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc806041b98cc042bda15f5d1928354
+      internalID: -404519658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1316
+        width: 111
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f50510c6cf1d45be28c3ad5fd6dcf
+      internalID: -2117835674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1315
+        width: 119
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183705264892204e94b46ac7b6d3166
+      internalID: -1954634907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1316
+        width: 109
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5e5bec4954204cae484934c2796cc
+      internalID: -1979484970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1225
+        width: 118
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15565c3fd787748a7ae404c57f22d6
+      internalID: 1414388275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1225
+        width: 119
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68430e7d0b2af24419a088321a61590a
+      internalID: 1708357546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1225
+        width: 114
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779a33724cfb9349b76caba44ad142b
+      internalID: -399718393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1227
+        width: 114
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ef18aa616167e40ad00d31fa8a4857
+      internalID: -738729859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1227
+        width: 117
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d7490e63f9d443b5282c62a37b024
+      internalID: -503736021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1227
+        width: 115
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f10223185d2149ac3082c6c76590a
+      internalID: -619752954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1225
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ff97e1375ff8c44b2f5afee936ab9b
+      internalID: 1389345413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1226
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1dd6d44ef0804cbe5fd94de630a90
+      internalID: -516183891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1107
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bdb40cf8701fa40b4bb66eae3ebe45
+      internalID: -607245735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1106
+        width: 117
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1516f1047d5924faa301d18fa2ff36
+      internalID: -1270052222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1106
+        width: 122
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21be59b43824704cbeb12a463df6f62
+      internalID: 725444701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1106
+        width: 116
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc2642263c5b4439d2520b0cacc774
+      internalID: 278273419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1124
+        width: 115
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67192707113b63d42bfcdba0d1402f94
+      internalID: 893507392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1127
+        width: 108
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9aa7b21394d247a1de0c0807b8e11
+      internalID: 1375918141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1105
+        width: 117
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd6ce855f37f143b5182ba586ec1cb
+      internalID: 1766790569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1106
+        width: 112
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cffb9a1f8a2d484ca56eb93f9e9557a
+      internalID: 871635688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 997
+        width: 116
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5419e9af8d798cf47996940d99161129
+      internalID: 15514739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 997
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb3ca11b0a7b045a50ad787fa3a0df
+      internalID: -1155028432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 997
+        width: 117
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ce9e5ec74f8946ad1fc8cd5409d5f
+      internalID: 1780105435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 994
+        width: 117
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83643680c45384284bea8eac4f8cda
+      internalID: -1831471260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 997
+        width: 141
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351dacc77e1eba34aba9c163ab717a74
+      internalID: -482990568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 997
+        width: 116
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b95e6ca433a44cbbde8c9212e1b4d
+      internalID: -2122578390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 996
+        width: 110
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b85ba14717c345872670b543c963d
+      internalID: 556376403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 996
+        width: 121
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb566c222f7c640b7c5e2d3c723f0b
+      internalID: 1413950322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 898
+        width: 121
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b393a5a4ec56240b16987678d42fe7
+      internalID: 1934416146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 897
+        width: 121
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4f14c336b0e949ad5fc76c7fc94dc
+      internalID: -2006853673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 898
+        width: 115
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f3ca65c12a73e4699b46517d1d792f
+      internalID: -1061250933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 898
+        width: 126
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae167f5b10a414786f401f28065b2b
+      internalID: 714363874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 898
+        width: 129
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08777bc75b9c743a600e1dd44c30fc
+      internalID: 488975010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 898
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411d5cab848b0a043949274ed272be02
+      internalID: 1568322734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 897
+        width: 120
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eafdd41a97c3784e90d05b47a46b024
+      internalID: -54368034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 897
+        width: 118
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b81a7d815e5c6948be70bc590f3e3bb
+      internalID: -2116711236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 798
+        width: 118
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b1538548a1054bbfdffb1654490c4
+      internalID: -1825415506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 797
+        width: 122
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953d0c5b053089479fd25829eabe8cf
+      internalID: -1456171900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 797
+        width: 124
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a167b013c58448a3613f2f4199697
+      internalID: -238160034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 797
+        width: 130
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb545e1c192f147852af94da2b14d9
+      internalID: -135011284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 799
+        width: 120
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a518c688c2354097303030dbc9574
+      internalID: -1796894988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 798
+        width: 115
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957f10aac746c24693d66d2d3377229
+      internalID: -983967617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 798
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e215891e1e6a07498753d39a51a6a6e
+      internalID: -1106874968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 798
+        width: 118
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089468133fd31824b8efe2083c4ef85c
+      internalID: 618897391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 676
+        width: 114
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeae1f91163efd4d9c29486983a9e0c
+      internalID: 879567738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 677
+        width: 124
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885db140aa78b6c4193eb27b79f047ba
+      internalID: -509661096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 679
+        width: 119
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09998620050ba414886edbc322bd04f9
+      internalID: 1492391882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 680
+        width: 121
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084c34ed9df62b4ba7d1837d6fd3b4e
+      internalID: 2107070411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 685
+        width: 120
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcff68f73d40954eb9ded0d49ff19ba
+      internalID: -1993430995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 675
+        width: 113
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af457265c3bbeb942905c85919bf3546
+      internalID: -180884027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 673
+        width: 112
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c60bc5e7ba094c9224fe5ac28768c
+      internalID: -1751415963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 673
+        width: 114
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c31f5874324945a66af91f6ce4b07
+      internalID: 1130402082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 556
+        width: 120
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a132b2c377855d4a8d900db6dbc191e
+      internalID: 334285442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 563
+        width: 117
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adae12880dc9c64f8b67795cafd22c3
+      internalID: 1973031415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 558
+        width: 126
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddcf31274686224782341c481a946db
+      internalID: 518666178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 571
+        width: 129
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a750f050ba9b04085e054262b8d0ed
+      internalID: -1621706457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 574
+        width: 113
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34115f21db16c547a927a28509b2a44
+      internalID: 994283705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 560
+        width: 116
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36490bede2f5c9a4fb9ece08eb1b8e3d
+      internalID: -37827300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 562
+        width: 112
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0b2fe1c2dd754b961c6d193b4b339
+      internalID: -959398355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 555
+        width: 115
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99669371187de1446af6011aeeddbecb
+      internalID: -1558262076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 451
+        width: 115
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4eed87a67b680429e48e3388969c6b
+      internalID: 1024007908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 450
+        width: 112
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ae736a6ac6fa45b5848095f96f07b
+      internalID: -1203773221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 451
+        width: 110
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657efcbfd5f1f6147b06d87ca93eacb6
+      internalID: 16187466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 450
+        width: 107
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb6b62954529b43ba5317db664b6fa
+      internalID: 1909453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 451
+        width: 111
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d796fba4a751634f93cf050f9606447
+      internalID: 344106966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 449
+        width: 111
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b933dccaeeee6d41a6ab915d76de3cf
+      internalID: 552335879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 450
+        width: 111
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d072f1e7d08a04b973f4efb9586e22
+      internalID: -2140058995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 450
+        width: 115
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5ff5e03564144c9e36610bcc0a106
+      internalID: 1723924384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 118
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246d4cf52228bf4d9bb69c34168e5ed
+      internalID: -1474487325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 351
+        width: 119
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15180d4828ced4d428f6eed4e479fbc7
+      internalID: 220613267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 349
+        width: 117
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36035256ebcec943b6cf6fdfc1a1d1a
+      internalID: -1839863409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 350
+        width: 118
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1475108f1ae4f84682db811530eb147
+      internalID: -2030982553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 349
+        width: 121
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab55f4b1cb0c404e9288faa053618ed
+      internalID: -797441344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 349
+        width: 115
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6ee6c874a45c40bc6c78c9f72e85f
+      internalID: 1253740133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 349
+        width: 115
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e2f2fa1ccec14480e6959014f0298
+      internalID: 1412472708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 349
+        width: 114
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2466ec0d7c45c3b46b9ac79346fb888c
+      internalID: -1130943385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 231
+        width: 106
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c53cacc760107844b2e9936bd993875
+      internalID: 1964247440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 233
+        width: 104
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b425aa18e2c21a143b6e26cf190626c3
+      internalID: -1266055465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 230
+        width: 109
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d751d55f1c427f43a3af3e705613add
+      internalID: -1138973259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 235
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c8eba603aeba4f888967073e4ee36
+      internalID: -1279832577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 106
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d4f1b30565dd48b2a1230f088970b
+      internalID: 959411662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 111
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf72ba8068f3f45b6f70033adef446
+      internalID: 1684986820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 229
+        width: 108
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b96ebef6fd5c4db3e6123b77aaaa0
+      internalID: 1155511059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 233
+        width: 108
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1f950fbd0a124d9279706714cf7b2
+      internalID: -809823319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 120
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510e5c39aabcb44d9c0ec824923589e
+      internalID: -1848733202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 135
+        width: 119
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e741a3e69f02e498c0abc1b36a6606
+      internalID: 1461234530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 135
+        width: 120
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e000761c095a084aa07bfc037a00f65
+      internalID: 1125194512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 136
+        width: 121
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d44e8f9006db346accccebebbbc4f4
+      internalID: 1139312992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 136
+        width: 118
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe75a8ffe6c1104ca4929270480ff1a
+      internalID: -299423702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 136
+        width: 116
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2613574ae355a1488e15560749e7e47
+      internalID: -2023591868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 135
+        width: 116
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc40f8394a5c5941ac2e284e51a7ac9
+      internalID: 325377695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 137
+        width: 119
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5e06d65506d743a03d6615a5549ae
+      internalID: 399050005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C00
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 132
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff9ee74256b9b4297e87921312a3d6
+      internalID: 487282136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 129
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91740720745058c479ee9d0ed4c61c68
+      internalID: 148252516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C02
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 27
+        width: 126
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea7c42a4a2e4743bfcb8725bcbb351
+      internalID: 249418804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C03
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 18
+        width: 120
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ef373beee7d54dbbedd27f0ed19e4
+      internalID: 150767930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C04
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 30
+        width: 122
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea394ee27a78942498bf1ec2c7666924
+      internalID: 768509528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C05
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 18
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af7fab4a045b746a81106bc2f4449d
+      internalID: 1178770445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C06
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 18
+        width: 117
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2190bc286dcb46b0829ad68b67c54
+      internalID: 754361833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perla_R13_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 21
+        width: 117
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f86a9f526aea24e909601de6d02e01
+      internalID: 949657046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df0682605734ce74a8f5077483f9b851
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Perla_Portrait: -1728073093
+      Perla_R01_C00: 1241707574
+      Perla_R01_C01: 947611051
+      Perla_R01_C02: -115437242
+      Perla_R01_C03: 1120528980
+      Perla_R01_C04: -404519658
+      Perla_R01_C05: -2117835674
+      Perla_R01_C06: -1954634907
+      Perla_R01_C07: -1979484970
+      Perla_R02_C00: 1414388275
+      Perla_R02_C01: 1708357546
+      Perla_R02_C02: -399718393
+      Perla_R02_C03: -738729859
+      Perla_R02_C04: -503736021
+      Perla_R02_C05: -619752954
+      Perla_R02_C06: 1389345413
+      Perla_R02_C07: -516183891
+      Perla_R03_C00: -607245735
+      Perla_R03_C01: -1270052222
+      Perla_R03_C02: 725444701
+      Perla_R03_C03: 278273419
+      Perla_R03_C04: 893507392
+      Perla_R03_C05: 1375918141
+      Perla_R03_C06: 1766790569
+      Perla_R03_C07: 871635688
+      Perla_R04_C00: 15514739
+      Perla_R04_C01: -1155028432
+      Perla_R04_C02: 1780105435
+      Perla_R04_C03: -1831471260
+      Perla_R04_C04: -482990568
+      Perla_R04_C05: -2122578390
+      Perla_R04_C06: 556376403
+      Perla_R04_C07: 1413950322
+      Perla_R05_C00: 1934416146
+      Perla_R05_C01: -2006853673
+      Perla_R05_C02: -1061250933
+      Perla_R05_C03: 714363874
+      Perla_R05_C04: 488975010
+      Perla_R05_C05: 1568322734
+      Perla_R05_C06: -54368034
+      Perla_R05_C07: -2116711236
+      Perla_R06_C00: -1825415506
+      Perla_R06_C01: -1456171900
+      Perla_R06_C02: -238160034
+      Perla_R06_C03: -135011284
+      Perla_R06_C04: -1796894988
+      Perla_R06_C05: -983967617
+      Perla_R06_C06: -1106874968
+      Perla_R06_C07: 618897391
+      Perla_R07_C00: 879567738
+      Perla_R07_C01: -509661096
+      Perla_R07_C02: 1492391882
+      Perla_R07_C03: 2107070411
+      Perla_R07_C04: -1993430995
+      Perla_R07_C05: -180884027
+      Perla_R07_C06: -1751415963
+      Perla_R07_C07: 1130402082
+      Perla_R08_C00: 334285442
+      Perla_R08_C01: 1973031415
+      Perla_R08_C02: 518666178
+      Perla_R08_C03: -1621706457
+      Perla_R08_C04: 994283705
+      Perla_R08_C05: -37827300
+      Perla_R08_C06: -959398355
+      Perla_R08_C07: -1558262076
+      Perla_R09_C00: 1024007908
+      Perla_R09_C01: -1203773221
+      Perla_R09_C02: 16187466
+      Perla_R09_C03: 1909453498
+      Perla_R09_C04: 344106966
+      Perla_R09_C05: 552335879
+      Perla_R09_C06: -2140058995
+      Perla_R09_C07: 1723924384
+      Perla_R10_C00: -1474487325
+      Perla_R10_C01: 220613267
+      Perla_R10_C02: -1839863409
+      Perla_R10_C03: -2030982553
+      Perla_R10_C04: -797441344
+      Perla_R10_C05: 1253740133
+      Perla_R10_C06: 1412472708
+      Perla_R10_C07: -1130943385
+      Perla_R11_C00: 1964247440
+      Perla_R11_C01: -1266055465
+      Perla_R11_C02: -1138973259
+      Perla_R11_C03: -1279832577
+      Perla_R11_C04: 959411662
+      Perla_R11_C05: 1684986820
+      Perla_R11_C06: 1155511059
+      Perla_R11_C07: -809823319
+      Perla_R12_C00: -1848733202
+      Perla_R12_C01: 1461234530
+      Perla_R12_C02: 1125194512
+      Perla_R12_C03: 1139312992
+      Perla_R12_C04: -299423702
+      Perla_R12_C05: -2023591868
+      Perla_R12_C06: 325377695
+      Perla_R12_C07: 399050005
+      Perla_R13_C00: 487282136
+      Perla_R13_C01: 148252516
+      Perla_R13_C02: 249418804
+      Perla_R13_C03: 150767930
+      Perla_R13_C04: 768509528
+      Perla_R13_C05: 1178770445
+      Perla_R13_C06: 754361833
+      Perla_R13_C07: 949657046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

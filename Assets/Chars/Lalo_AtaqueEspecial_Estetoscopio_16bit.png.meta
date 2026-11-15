@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 31f751783ebe92944ab0911e97ea4fa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6569264546501528520
+    second: Lalo_AtaqueEspecial_Estetoscopio_16bit_0
+  - first:
+      213: -4677821756551124254
+    second: Lalo_Special_0
+  - first:
+      213: -6499281456846822070
+    second: Lalo_Special_1
+  - first:
+      213: -8051018974981849336
+    second: Lalo_Special_2
+  - first:
+      213: 1764725645341690933
+    second: Lalo_Special_3
+  - first:
+      213: 8411468710146318953
+    second: Lalo_Special_4
+  - first:
+      213: 4384079467896593928
+    second: Lalo_Special_5
+  - first:
+      213: 3044547492870935606
+    second: Lalo_Special_6
+  - first:
+      213: 5283979007813631463
+    second: Lalo_Special_7
+  - first:
+      213: 4513988391542359944
+    second: Lalo_Special_8
+  - first:
+      213: 549063968700309010
+    second: Lalo_Special_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 294
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lalo_Special_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 396
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4806, y: 0.063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2d2685e9051fb0800000000000000
+      internalID: -4677821756551124254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 397
+        width: 359
+        height: 395
+      alignment: 9
+      pivot: {x: 0.4277, y: 0.063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ac5d13f9edc5a0800000000000000
+      internalID: -6499281456846822070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 396
+        width: 326
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4089, y: 0.063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff64cf5e8054090800000000000000
+      internalID: -8051018974981849336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 396
+        width: 522
+        height: 397
+      alignment: 9
+      pivot: {x: 0.3021, y: 0.063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c0d90ef909d7810800000000000000
+      internalID: 1764725645341690933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_4
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 396
+        width: 380
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4317, y: 0.063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962a59bd93a8bb470800000000000000
+      internalID: 8411468710146318953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 396
+      alignment: 9
+      pivot: {x: 0.4993, y: 0.0379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e5f075c0167dc30800000000000000
+      internalID: 4384079467896593928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 486
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3535, y: 0.0379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d06660d7604a20800000000000000
+      internalID: 3044547492870935606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 523
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3082, y: 0.0379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3a5179e6745940800000000000000
+      internalID: 5283979007813631463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_8
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 0
+        width: 290
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5416, y: 0.0379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878e16a688e4ae30800000000000000
+      internalID: 4513988391542359944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lalo_Special_9
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0
+        width: 345
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5312, y: 0.0379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e195d35caae9700800000000000000
+      internalID: 549063968700309010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lalo_AtaqueEspecial_Estetoscopio_16bit_0: 6569264546501528520
+      Lalo_Special_0: -4677821756551124254
+      Lalo_Special_1: -6499281456846822070
+      Lalo_Special_2: -8051018974981849336
+      Lalo_Special_3: 1764725645341690933
+      Lalo_Special_4: 8411468710146318953
+      Lalo_Special_5: 4384079467896593928
+      Lalo_Special_6: 3044547492870935606
+      Lalo_Special_7: 5283979007813631463
+      Lalo_Special_8: 4513988391542359944
+      Lalo_Special_9: 549063968700309010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

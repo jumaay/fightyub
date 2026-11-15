@@ -1,0 +1,30 @@
+* text=auto
+
+# Scripts & text config
+*.cs text diff=csharp
+*.shader text
+*.cginc text
+*.hlsl text
+*.json text
+*.md text
+*.txt text
+*.meta text
+*.asmdef text
+
+# Unity binary/serialized assets
+*.unity binary
+*.prefab binary
+*.asset binary
+*.mat binary
+*.anim binary
+*.controller binary
+
+# Images & Audio
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.otf binary

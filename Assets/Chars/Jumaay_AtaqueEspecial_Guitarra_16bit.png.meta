@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 3361ad4fb18fd7e498d66e7f89b1c8cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5299150398537603577
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_0
+  - first:
+      213: -4618695281010781204
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_1
+  - first:
+      213: -7973749655951174980
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_2
+  - first:
+      213: -8246207852867632051
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_3
+  - first:
+      213: -6032321675009512157
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_4
+  - first:
+      213: -7450874404267888932
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_5
+  - first:
+      213: -8012556124138708486
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_6
+  - first:
+      213: 7539573940623051820
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_7
+  - first:
+      213: -4673627222027044084
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_8
+  - first:
+      213: 9930772253405413
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_9
+  - first:
+      213: 1429701792988582819
+    second: Jumaay_AtaqueEspecial_Guitarra_16bit_10
+  - first:
+      213: 92781768394428662
+    second: Jumaay_Special_0
+  - first:
+      213: 2856368765139056709
+    second: Jumaay_Special_1
+  - first:
+      213: 5274512282961791477
+    second: Jumaay_Special_2
+  - first:
+      213: 501454038002456400
+    second: Jumaay_Special_3
+  - first:
+      213: 4032995622714837463
+    second: Jumaay_Special_4
+  - first:
+      213: -6163996437036926788
+    second: Jumaay_Special_5
+  - first:
+      213: 8791815206200167883
+    second: Jumaay_Special_6
+  - first:
+      213: 4004859919043122921
+    second: Jumaay_Special_7
+  - first:
+      213: -2523397515902405610
+    second: Jumaay_Special_8
+  - first:
+      213: 6327441272865757697
+    second: Jumaay_Special_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 269
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumaay_Special_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 396
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4616, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f058cad680a94100800000000000000
+      internalID: 92781768394428662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 397
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4741, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54872a9124cd3a720800000000000000
+      internalID: 2856368765139056709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 396
+        width: 364
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4694, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94f5dc9f4d23940800000000000000
+      internalID: 5274512282961791477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 396
+        width: 364
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4271, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057525e6ac585f600800000000000000
+      internalID: 501454038002456400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_4
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 396
+        width: 462
+        height: 397
+      alignment: 9
+      pivot: {x: 0.3689, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d98f90b62418f730800000000000000
+      internalID: 4032995622714837463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 366
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5105, y: 0.0657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f3a516e5157aa0800000000000000
+      internalID: -6163996437036926788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 459
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3437, y: 0.0657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd4078595dc20a70800000000000000
+      internalID: 8791815206200167883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 353
+        height: 396
+      alignment: 9
+      pivot: {x: 0.4578, y: 0.0657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d3c1b0ee149730800000000000000
+      internalID: 4004859919043122921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_8
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 461
+        height: 396
+      alignment: 9
+      pivot: {x: 0.361, y: 0.0657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b88d24571bfcd0800000000000000
+      internalID: -2523397515902405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumaay_Special_9
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 0
+        width: 344
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3603, y: 0.0657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a1f4e30569fc750800000000000000
+      internalID: 6327441272865757697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jumaay_AtaqueEspecial_Guitarra_16bit_0: -5299150398537603577
+      Jumaay_AtaqueEspecial_Guitarra_16bit_1: -4618695281010781204
+      Jumaay_AtaqueEspecial_Guitarra_16bit_10: 1429701792988582819
+      Jumaay_AtaqueEspecial_Guitarra_16bit_2: -7973749655951174980
+      Jumaay_AtaqueEspecial_Guitarra_16bit_3: -8246207852867632051
+      Jumaay_AtaqueEspecial_Guitarra_16bit_4: -6032321675009512157
+      Jumaay_AtaqueEspecial_Guitarra_16bit_5: -7450874404267888932
+      Jumaay_AtaqueEspecial_Guitarra_16bit_6: -8012556124138708486
+      Jumaay_AtaqueEspecial_Guitarra_16bit_7: 7539573940623051820
+      Jumaay_AtaqueEspecial_Guitarra_16bit_8: -4673627222027044084
+      Jumaay_AtaqueEspecial_Guitarra_16bit_9: 9930772253405413
+      Jumaay_Special_0: 92781768394428662
+      Jumaay_Special_1: 2856368765139056709
+      Jumaay_Special_2: 5274512282961791477
+      Jumaay_Special_3: 501454038002456400
+      Jumaay_Special_4: 4032995622714837463
+      Jumaay_Special_5: -6163996437036926788
+      Jumaay_Special_6: 8791815206200167883
+      Jumaay_Special_7: 4004859919043122921
+      Jumaay_Special_8: -2523397515902405610
+      Jumaay_Special_9: 6327441272865757697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

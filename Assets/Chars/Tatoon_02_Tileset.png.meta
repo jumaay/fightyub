@@ -1,0 +1,2838 @@
+fileFormatVersion: 2
+guid: 251d3093cc97e3244ae95b8549b0be04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7436501464374490721
+    second: Tatoon_02_Tileset_0
+  - first:
+      213: -4339823324451251978
+    second: Tatoon_02_Tileset_1
+  - first:
+      213: 1194771411585300088
+    second: Tatoon_02_Tileset_2
+  - first:
+      213: 4035734995342577847
+    second: Tatoon_02_Tileset_3
+  - first:
+      213: 8195071498742373845
+    second: Tatoon_02_Tileset_4
+  - first:
+      213: 8807020821753308715
+    second: Tatoon_02_Tileset_5
+  - first:
+      213: -399022196918430415
+    second: Tatoon_02_Tileset_6
+  - first:
+      213: -8671864342217677146
+    second: Tatoon_02_Tileset_7
+  - first:
+      213: 6434540921989219048
+    second: Tatoon_02_Tileset_8
+  - first:
+      213: -5617619978511284934
+    second: Tatoon_02_Tileset_9
+  - first:
+      213: 6677223828216634195
+    second: Tatoon_02_Tileset_10
+  - first:
+      213: -8285264929791781138
+    second: Tatoon_02_Tileset_11
+  - first:
+      213: -3838491649797313932
+    second: Tatoon_02_Tileset_12
+  - first:
+      213: -134229834529164015
+    second: Tatoon_02_Tileset_13
+  - first:
+      213: -1899662082892277798
+    second: Tatoon_02_Tileset_14
+  - first:
+      213: 6785327527516376066
+    second: Tatoon_02_Tileset_15
+  - first:
+      213: 4307981483281832636
+    second: Tatoon_02_Tileset_16
+  - first:
+      213: -7647976496170027226
+    second: Tatoon_02_Tileset_17
+  - first:
+      213: 2777898891591125116
+    second: Tatoon_02_Tileset_18
+  - first:
+      213: 1838314863592756389
+    second: Tatoon_02_Tileset_19
+  - first:
+      213: -1446755348206088590
+    second: Tatoon_02_Tileset_20
+  - first:
+      213: -2006519291238360431
+    second: Tatoon_02_Tileset_21
+  - first:
+      213: 8955120171526007935
+    second: Tatoon_02_Tileset_22
+  - first:
+      213: -9195159421244601071
+    second: Tatoon_02_Tileset_23
+  - first:
+      213: -4268499790492472112
+    second: Tatoon_02_Tileset_24
+  - first:
+      213: -4624740545983164318
+    second: Tatoon_02_Tileset_25
+  - first:
+      213: -6475478882392637395
+    second: Tatoon_02_Tileset_26
+  - first:
+      213: 5343674554519430662
+    second: Tatoon_02_Tileset_27
+  - first:
+      213: -7589833525351299607
+    second: Tatoon_02_Tileset_28
+  - first:
+      213: 5830655085972667438
+    second: Tatoon_02_Tileset_29
+  - first:
+      213: 4305592745266297872
+    second: Tatoon_02_Tileset_30
+  - first:
+      213: 4878178758995546903
+    second: Tatoon_02_Tileset_31
+  - first:
+      213: 4052560067894124519
+    second: Tatoon_02_Tileset_32
+  - first:
+      213: 1370209223238941760
+    second: Tatoon_02_Tileset_33
+  - first:
+      213: -681224183158131526
+    second: Tatoon_02_Tileset_34
+  - first:
+      213: -1200253699346532737
+    second: Tatoon_02_Tileset_35
+  - first:
+      213: -9033663075913105645
+    second: Tatoon_02_Tileset_36
+  - first:
+      213: 6841526522079364103
+    second: Tatoon_02_Tileset_37
+  - first:
+      213: -3183871236235573507
+    second: Tatoon_02_Tileset_38
+  - first:
+      213: -2674725965744579353
+    second: Tatoon_02_Tileset_39
+  - first:
+      213: 886900665212985351
+    second: Tatoon_02_Tileset_40
+  - first:
+      213: -2765874481692455188
+    second: Tatoon_02_Tileset_41
+  - first:
+      213: -1208021997181511993
+    second: Tatoon_02_Tileset_42
+  - first:
+      213: 3170580076448033857
+    second: Tatoon_02_Tileset_43
+  - first:
+      213: -2736672119227247593
+    second: Tatoon_02_Tileset_44
+  - first:
+      213: -3638579184433156581
+    second: Tatoon_02_Tileset_45
+  - first:
+      213: 8578499175625854703
+    second: Tatoon_02_Tileset_46
+  - first:
+      213: -2843337745956406083
+    second: Tatoon_02_Tileset_47
+  - first:
+      213: 5839404965579789187
+    second: Tatoon_02_Tileset_48
+  - first:
+      213: -6571668811969367944
+    second: Tatoon_02_Tileset_49
+  - first:
+      213: 656121499374867183
+    second: Tatoon_02_Tileset_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tatoon_Portrait
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1431
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a0e3dec0b44f429d29404b0d3f804
+      internalID: 493931104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1326
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5051575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e14140608699044b3f8a4cbd8781d4
+      internalID: 373751476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1326
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49466723, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5b2e7d3dd57c44bb2d9d2983b81f3
+      internalID: -71020084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1326
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49966732, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c2cb6c6cd4ab4ca167eff0612ee31
+      internalID: -1453508325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1326
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49644622, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c725163768cac2a499fdb3bb206db218
+      internalID: -798596133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1326
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50151443, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3dc8757c699db44b137d5915248395
+      internalID: -759232243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1326
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: 0.52395666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de35be30bae224a8ec7a6e765fe750
+      internalID: 1605130425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1326
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49417847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619e022d41ccf34c80f2d22e8ad4769
+      internalID: -1435547195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1326
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49599642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe68566f156454c82a4fddd918470b
+      internalID: 957336596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1237
+        width: 76
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5521261, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156dcd0d6fa323f4090649fe9f1bdabc
+      internalID: -1402418675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1237
+        width: 86
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54035115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028382254a245c41bfd0c723ad48e98
+      internalID: 1907555386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1237
+        width: 81
+        height: 73
+      alignment: 9
+      pivot: {x: 0.55543613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494d5450f319edf49ad43c1365496320
+      internalID: -1982183950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1237
+        width: 79
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5595927, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6011e35df3d7d241a8fc5d48aeb2d7c
+      internalID: 1749758196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1237
+        width: 77
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5263196, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe812faebe8a8b4a80565ed73fd2106
+      internalID: 1851544384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1238
+        width: 84
+        height: 71
+      alignment: 9
+      pivot: {x: 0.54455495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2aacdcf32d5241bf7ec7b735dde72
+      internalID: 447336931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1237
+        width: 79
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5466432, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad7d4c4d1b4d840a4456c03731fc94
+      internalID: 255484171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1237
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.55070925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4da4773bf74ea844a0367ed437233cc
+      internalID: -405662979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1115
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5141625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c37ca5ec75e9744b86def7185af3c3
+      internalID: -1957580364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1115
+        width: 77
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5141346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c488f80d22c1408739674d6c19eb8
+      internalID: 469868705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1125
+        width: 92
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3835678, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c8a34df60ccc4eab2d90f7428e5e9
+      internalID: 1913242568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1130
+        width: 101
+        height: 102
+      alignment: 9
+      pivot: {x: 0.45104617, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ebd316ea304b341a39ff89aff01643
+      internalID: 589694261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1121
+        width: 77
+        height: 104
+      alignment: 9
+      pivot: {x: 0.52042377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b068f4617d2100469a0dc83b584f081
+      internalID: -574360977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1122
+        width: 77
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4793931, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f818faf07bae54cbea1d8d47b1b602
+      internalID: 602660250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1114
+        width: 83
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5069161, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096d06459eb51549a44dfad84edbe04
+      internalID: -1672463346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1114
+        width: 85
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5024673, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8e51f19ef52948971ae8741ece93a
+      internalID: 807750295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1005
+        width: 87
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48627147, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8cfeb15c73f124195b966d705687f6
+      internalID: -1674533165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1005
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4907212, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fbd0caddf46d94f992259ef31bb1e4
+      internalID: 1378168349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1005
+        width: 106
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45244324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746c8a740084414da3e999b59c7ad12
+      internalID: 1976105106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1005
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44493157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bbc4b206558c48a568c1e5d502138
+      internalID: -1035802841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1005
+        width: 85
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49648222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4bb431b86dca41a6cf1c6037b1045
+      internalID: -2078942593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1005
+        width: 84
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4853443, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a827e956679b94fbab3e52a2028b62
+      internalID: -2067534793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1005
+        width: 84
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48542494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62d96b691f9c14f98dfab44aba00cd
+      internalID: -248396713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1005
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4933125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53061ed323ed52a4ea32094ee4c75c53
+      internalID: -831535273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 897
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4356764, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d168509a7775c43be2f567dd42b4be
+      internalID: -1765613527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 896
+        width: 99
+        height: 103
+      alignment: 9
+      pivot: {x: 0.38369274, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b4a219234c6d4d9c73a3cf3b1c6e4
+      internalID: -1625478271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 899
+        width: 106
+        height: 107
+      alignment: 9
+      pivot: {x: 0.41162974, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aecedf3ba172f4e9ba39de4cd160fd
+      internalID: 1657731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 897
+        width: 106
+        height: 103
+      alignment: 9
+      pivot: {x: 0.38989228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c30eb80993c7489560c3e2f8bdded
+      internalID: -1761180747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 900
+        width: 101
+        height: 103
+      alignment: 9
+      pivot: {x: 0.40722355, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa6620fc509944aa93b9491af78aa1
+      internalID: -1875779278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 897
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.39893118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab057552d6ec6364f9083cd8563e377f
+      internalID: 2120944601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 896
+        width: 81
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4250865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ff65955bf31c849a4e10bccaba0421
+      internalID: 74178080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 897
+        width: 82
+        height: 106
+      alignment: 9
+      pivot: {x: 0.45294487, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6bbe6b10dc7a4eb6247c8bf6579d6
+      internalID: -862176950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 807
+        width: 81
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5437911, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798d17b3403051408a4a02c71781acb
+      internalID: 1578288983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 806
+        width: 83
+        height: 78
+      alignment: 9
+      pivot: {x: 0.55017823, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f7d05ed1618543aa131c98f987f18
+      internalID: 1382730589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 805
+        width: 110
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5051466, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62638e2c7abb3be47a7de9726f5b7951
+      internalID: -111804524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 806
+        width: 103
+        height: 80
+      alignment: 9
+      pivot: {x: 0.4840245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fb2281770668479ae1357280b064a
+      internalID: 1949350259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 807
+        width: 83
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5481501, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5abef87a11c549adf92852487e8ca
+      internalID: -898455566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 808
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5472948, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c11cd49c1c6849a2855179de29449
+      internalID: 1626808214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 806
+        width: 83
+        height: 79
+      alignment: 9
+      pivot: {x: 0.52246755, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b425bef099f9f8e41a0a8182a75796d4
+      internalID: 475810026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 806
+        width: 84
+        height: 82
+      alignment: 9
+      pivot: {x: 0.54646736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0e40b678a1784b92334e96f35591c
+      internalID: -1159106681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 677
+        width: 90
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47144073, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd01b04439ff3044b2b7277ea08cdc3
+      internalID: -1817040776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 676
+        width: 74
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5057367, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4b17c821b1d046994936db3074de5
+      internalID: 522390233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 687
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.3945914, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b423907ce0ae4cbdf850ed3b61ab0
+      internalID: -772319261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 688
+        width: 104
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43787473, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b1c07fafd2da44a9f30901064eeb58
+      internalID: 1857575949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 685
+        width: 73
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5090516, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6859f5417cc28545b83ec74e9bcde0f
+      internalID: -2137176857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 684
+        width: 81
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48338562, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86de34c9177ab9b4fa7bc665f282cf06
+      internalID: 1924319971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 676
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.47897482, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c71cc8a078f1a4d93d5533fd3491ef
+      internalID: 1388193089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 677
+        width: 89
+        height: 106
+      alignment: 9
+      pivot: {x: 0.48743978, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0c1f5629f3a2b49876b24f17d051b5
+      internalID: -124891855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 550
+        width: 85
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4686588, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad4eb008904f9741a5eec65454261af
+      internalID: -1617610331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 566
+        width: 101
+        height: 93
+      alignment: 9
+      pivot: {x: 0.43291178, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adfa91e19e30dd48a57f420cde6d563
+      internalID: 792086637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 586
+        width: 110
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45852467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fd5c33e7c0e64da0003b183955950
+      internalID: 1120797670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 586
+        width: 97
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3983708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67afa0d7e198c4eada2ff83f4bf1f5
+      internalID: 1264737181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 583
+        width: 91
+        height: 86
+      alignment: 9
+      pivot: {x: 0.41976693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8052788611aa9468268ae467465a7c
+      internalID: 341261365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 558
+        width: 64
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45950794, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc153de502a3c114daa449542edfa239
+      internalID: -1680540244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 548
+        width: 84
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49293083, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b160edb93bf8ab419c2399e74785d28
+      internalID: -255060385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 548
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48593357, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b33490baee1148b086fdf4f3db959
+      internalID: 391649251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 435
+        width: 87
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4959573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7966f6a8661de478ed8ecb09dc5b8e
+      internalID: -1531928389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 434
+        width: 87
+        height: 110
+      alignment: 9
+      pivot: {x: 0.52869475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e2bf015aad9ff4a8be786d4ab77cba
+      internalID: -2134949991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 434
+        width: 90
+        height: 109
+      alignment: 9
+      pivot: {x: 0.52907884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a2aa6beec95643afb29d8ab67d5db
+      internalID: 1024423999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 434
+        width: 90
+        height: 110
+      alignment: 9
+      pivot: {x: 0.51797485, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32ec117c4071e42ba89773314c89cc
+      internalID: 899806451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 434
+        width: 88
+        height: 108
+      alignment: 9
+      pivot: {x: 0.51671463, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4f7289c4184dc4b85ae5df9b157154
+      internalID: 86063013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 434
+        width: 89
+        height: 109
+      alignment: 9
+      pivot: {x: 0.501565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ee196e807a0147970135612e7f074
+      internalID: 2081971130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 434
+        width: 90
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5039483, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d10f4821fda34eac7b794fbee7225
+      internalID: 1663501536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 435
+        width: 85
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48571345, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a6f3445f7f7745a2fd701fbaeef1a
+      internalID: -854748220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 339
+        width: 83
+        height: 90
+      alignment: 9
+      pivot: {x: 0.53688455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71093a82e8ae4a745a9f97650dfca1fc
+      internalID: 1286162720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 339
+        width: 88
+        height: 83
+      alignment: 9
+      pivot: {x: 0.56472117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e93f230707254cbcc23efcacf4905
+      internalID: 2019432093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 108
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45789817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a66efe54d2b74cb6140c832eab8c3
+      internalID: -746375233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 339
+        width: 103
+        height: 91
+      alignment: 9
+      pivot: {x: 0.42371374, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e1fa9c07831541b0230b74c58fcef
+      internalID: 1644985916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 342
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5345076, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe6f2292a886642b521a691239dc8e
+      internalID: -1373920172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 339
+        width: 84
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5384078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c62adc78d76a64fb7a0fb03bb2c5a1
+      internalID: -267595311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 339
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53786165, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6ef8802404de4da58c56379a53fbd
+      internalID: 1183114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 338
+        width: 79
+        height: 91
+      alignment: 9
+      pivot: {x: 0.55003107, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0e4458335b3f4fa44f6ed2b19619c
+      internalID: 500508721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 216
+        width: 89
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49344036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71d1c9f5bad4e468ef3dfb6adc4ae5
+      internalID: 1073646033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.495925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2a1790c84837479dc4b14ae9de5d5
+      internalID: -463563850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 217
+        width: 75
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48954183, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806ff78c6d3d0b49b0a957ba7db6ca0
+      internalID: 1387184731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 224
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5388636, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d42d57153486147a5036be62c3b4f1
+      internalID: 134693360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 217
+        width: 74
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5129337, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54507f535a04f545b465aeaac30ce49
+      internalID: 1797918276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 215
+        width: 71
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50767237, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6cfac1d80078c4c9a554b4599258c5
+      internalID: -1675049660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 216
+        width: 85
+        height: 108
+      alignment: 9
+      pivot: {x: 0.50894845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7477e264033899945b2ba1893c750a9c
+      internalID: 1132010898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 216
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5243508, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa863e5d0d5d04c94801c12c4a054c
+      internalID: 879446207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 88
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5056019, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbcc94b10778104586d3123abec2f53
+      internalID: -844057088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 108
+        width: 92
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5104045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5c086c61caa54c829cab8c198d311
+      internalID: 2049156556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 106
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5501239, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa3c8387d41c7f45913f2598dcbae70
+      internalID: 1871892154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 107
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49718863, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17e18035813334d80df4bd409b5256
+      internalID: -845249419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 108
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5881971, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e2eee99ee3cc48981e0ea2bc4a2ab
+      internalID: 965153784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 108
+        width: 91
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5564086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927cc723b2a19642bf8518621a998b2
+      internalID: -1981307595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 108
+        width: 78
+        height: 103
+      alignment: 9
+      pivot: {x: 0.54845876, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223e663dd6e6bf418fc7e1ec01aafad
+      internalID: -841983596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 108
+        width: 96
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5366637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9583b60fd39f42805bc92378d074d
+      internalID: 2050443442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C00
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 90
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51116, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ad17d745eea5547835bc712c8ca334
+      internalID: 490628744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 98
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51381946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d86df81dfedd14caf9b9013f1352c4
+      internalID: -145445104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 104
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5854416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c6fdd1977e68a4ea790833f03263ea
+      internalID: -1742116656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C03
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 14
+        width: 110
+        height: 91
+      alignment: 9
+      pivot: {x: 0.55507505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1406821d8c367ba4e87646c77f27b44d
+      internalID: 1028757210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 86
+        height: 103
+      alignment: 9
+      pivot: {x: 0.52236724, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8e6a669bd0134dbc4d799fb457bd1
+      internalID: -675961372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C05
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 5
+        width: 111
+        height: 98
+      alignment: 9
+      pivot: {x: 0.52215743, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5512449e5bc44d89677483c4ba1fe
+      internalID: 1209513708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3
+        width: 97
+        height: 100
+      alignment: 9
+      pivot: {x: 0.56068027, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d038210e42b634d93afd10c2ba17c4
+      internalID: 930904722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tatoon_R13_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5260941, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885fc900878c3945bccb8c884170938
+      internalID: 1436241741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c9fc9b50b80577438c85fc4d209bcff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tatoon_02_Tileset_0: -7436501464374490721
+      Tatoon_02_Tileset_1: -4339823324451251978
+      Tatoon_02_Tileset_10: 6677223828216634195
+      Tatoon_02_Tileset_11: -8285264929791781138
+      Tatoon_02_Tileset_12: -3838491649797313932
+      Tatoon_02_Tileset_13: -134229834529164015
+      Tatoon_02_Tileset_14: -1899662082892277798
+      Tatoon_02_Tileset_15: 6785327527516376066
+      Tatoon_02_Tileset_16: 4307981483281832636
+      Tatoon_02_Tileset_17: -7647976496170027226
+      Tatoon_02_Tileset_18: 2777898891591125116
+      Tatoon_02_Tileset_19: 1838314863592756389
+      Tatoon_02_Tileset_2: 1194771411585300088
+      Tatoon_02_Tileset_20: -1446755348206088590
+      Tatoon_02_Tileset_21: -2006519291238360431
+      Tatoon_02_Tileset_22: 8955120171526007935
+      Tatoon_02_Tileset_23: -9195159421244601071
+      Tatoon_02_Tileset_24: -4268499790492472112
+      Tatoon_02_Tileset_25: -4624740545983164318
+      Tatoon_02_Tileset_26: -6475478882392637395
+      Tatoon_02_Tileset_27: 5343674554519430662
+      Tatoon_02_Tileset_28: -7589833525351299607
+      Tatoon_02_Tileset_29: 5830655085972667438
+      Tatoon_02_Tileset_3: 4035734995342577847
+      Tatoon_02_Tileset_30: 4305592745266297872
+      Tatoon_02_Tileset_31: 4878178758995546903
+      Tatoon_02_Tileset_32: 4052560067894124519
+      Tatoon_02_Tileset_33: 1370209223238941760
+      Tatoon_02_Tileset_34: -681224183158131526
+      Tatoon_02_Tileset_35: -1200253699346532737
+      Tatoon_02_Tileset_36: -9033663075913105645
+      Tatoon_02_Tileset_37: 6841526522079364103
+      Tatoon_02_Tileset_38: -3183871236235573507
+      Tatoon_02_Tileset_39: -2674725965744579353
+      Tatoon_02_Tileset_4: 8195071498742373845
+      Tatoon_02_Tileset_40: 886900665212985351
+      Tatoon_02_Tileset_41: -2765874481692455188
+      Tatoon_02_Tileset_42: -1208021997181511993
+      Tatoon_02_Tileset_43: 3170580076448033857
+      Tatoon_02_Tileset_44: -2736672119227247593
+      Tatoon_02_Tileset_45: -3638579184433156581
+      Tatoon_02_Tileset_46: 8578499175625854703
+      Tatoon_02_Tileset_47: -2843337745956406083
+      Tatoon_02_Tileset_48: 5839404965579789187
+      Tatoon_02_Tileset_49: -6571668811969367944
+      Tatoon_02_Tileset_5: 8807020821753308715
+      Tatoon_02_Tileset_50: 656121499374867183
+      Tatoon_02_Tileset_6: -399022196918430415
+      Tatoon_02_Tileset_7: -8671864342217677146
+      Tatoon_02_Tileset_8: 6434540921989219048
+      Tatoon_02_Tileset_9: -5617619978511284934
+      Tatoon_02_Tileset_Portrait: 1030277302
+      Tatoon_02_Tileset_R01_C00: 615157487
+      Tatoon_02_Tileset_R01_C01: 2060952569
+      Tatoon_02_Tileset_R01_C02: -950870106
+      Tatoon_02_Tileset_R01_C03: 1106161175
+      Tatoon_02_Tileset_R01_C04: -488251813
+      Tatoon_02_Tileset_R01_C05: 1210333393
+      Tatoon_02_Tileset_R01_C06: 1900847168
+      Tatoon_02_Tileset_R01_C07: -792640741
+      Tatoon_02_Tileset_R02_C00: 108293624
+      Tatoon_02_Tileset_R02_C01: 1085918160
+      Tatoon_02_Tileset_R02_C02: 342993
+      Tatoon_02_Tileset_R02_C03: -1408187926
+      Tatoon_02_Tileset_R02_C04: -1532543701
+      Tatoon_02_Tileset_R02_C05: 834499140
+      Tatoon_02_Tileset_R02_C06: -86954950
+      Tatoon_02_Tileset_R02_C07: 1209349765
+      Tatoon_02_Tileset_R03_C00: -222463304
+      Tatoon_02_Tileset_R03_C01: -1608095773
+      Tatoon_02_Tileset_R03_C02: 934583304
+      Tatoon_02_Tileset_R03_C03: 487235535
+      Tatoon_02_Tileset_R03_C04: -2143708298
+      Tatoon_02_Tileset_R03_C05: -1719631327
+      Tatoon_02_Tileset_R03_C06: -914190800
+      Tatoon_02_Tileset_R03_C07: -89939760
+      Tatoon_02_Tileset_R04_C00: 789278226
+      Tatoon_02_Tileset_R04_C01: -1270179965
+      Tatoon_02_Tileset_R04_C02: -206871156
+      Tatoon_02_Tileset_R04_C03: -162509437
+      Tatoon_02_Tileset_R04_C04: -2128895848
+      Tatoon_02_Tileset_R04_C05: -737144675
+      Tatoon_02_Tileset_R04_C06: 1089021369
+      Tatoon_02_Tileset_R04_C07: 748911574
+      Tatoon_02_Tileset_R05_C00: 101937814
+      Tatoon_02_Tileset_R05_C01: 1108066339
+      Tatoon_02_Tileset_R05_C02: -1149396824
+      Tatoon_02_Tileset_R05_C03: -1966869193
+      Tatoon_02_Tileset_R05_C04: 143840890
+      Tatoon_02_Tileset_R05_C05: 1513575772
+      Tatoon_02_Tileset_R05_C06: 1329852493
+      Tatoon_02_Tileset_R05_C07: 1492900962
+      Tatoon_02_Tileset_R06_C00: 32940416
+      Tatoon_02_Tileset_R06_C01: -509453085
+      Tatoon_02_Tileset_R06_C02: 869158024
+      Tatoon_02_Tileset_R06_C03: 318892029
+      Tatoon_02_Tileset_R06_C04: 90501719
+      Tatoon_02_Tileset_R06_C05: -1544793796
+      Tatoon_02_Tileset_R06_C06: -70350515
+      Tatoon_02_Tileset_R06_C07: 610801845
+      Tatoon_02_Tileset_R07_C00: -1363878506
+      Tatoon_02_Tileset_R07_C01: 1423188570
+      Tatoon_02_Tileset_R07_C02: 332730024
+      Tatoon_02_Tileset_R07_C03: -776258866
+      Tatoon_02_Tileset_R07_C04: -1971097523
+      Tatoon_02_Tileset_R07_C05: -1274329764
+      Tatoon_02_Tileset_R07_C06: -1751990605
+      Tatoon_02_Tileset_R07_C07: 1904693355
+      Tatoon_02_Tileset_R08_C00: -1045766955
+      Tatoon_02_Tileset_R08_C01: -1585860031
+      Tatoon_02_Tileset_R08_C02: -1746143422
+      Tatoon_02_Tileset_R08_C03: -1092581455
+      Tatoon_02_Tileset_R08_C04: -2049931182
+      Tatoon_02_Tileset_R08_C05: -130689525
+      Tatoon_02_Tileset_R08_C06: -464644427
+      Tatoon_02_Tileset_R08_C07: 1667373820
+      Tatoon_02_Tileset_R09_C00: 1203226731
+      Tatoon_02_Tileset_R09_C01: -105395625
+      Tatoon_02_Tileset_R09_C02: -716721194
+      Tatoon_02_Tileset_R09_C03: -1760428872
+      Tatoon_02_Tileset_R09_C04: 1778362642
+      Tatoon_02_Tileset_R09_C05: -1975004991
+      Tatoon_02_Tileset_R09_C06: 513105698
+      Tatoon_02_Tileset_R09_C07: -1232081089
+      Tatoon_02_Tileset_R10_C00: -233407197
+      Tatoon_02_Tileset_R10_C01: 348984358
+      Tatoon_02_Tileset_R10_C02: -1752632470
+      Tatoon_02_Tileset_R10_C03: 1090228444
+      Tatoon_02_Tileset_R10_C04: -722516369
+      Tatoon_02_Tileset_R10_C05: -519489955
+      Tatoon_02_Tileset_R10_C06: -1419354239
+      Tatoon_02_Tileset_R10_C07: 202471314
+      Tatoon_02_Tileset_R11_C00: -1638884001
+      Tatoon_02_Tileset_R11_C01: 1663169415
+      Tatoon_02_Tileset_R11_C02: 97555469
+      Tatoon_02_Tileset_R11_C03: 241989990
+      Tatoon_02_Tileset_R11_C04: -1594480353
+      Tatoon_02_Tileset_R11_C05: 1052184542
+      Tatoon_02_Tileset_R11_C06: 85002491
+      Tatoon_02_Tileset_R11_C07: -306750054
+      Tatoon_Portrait: 493931104
+      Tatoon_R01_C00: 373751476
+      Tatoon_R01_C01: -71020084
+      Tatoon_R01_C02: -1453508325
+      Tatoon_R01_C03: -798596133
+      Tatoon_R01_C04: -759232243
+      Tatoon_R01_C05: 1605130425
+      Tatoon_R01_C06: -1435547195
+      Tatoon_R01_C07: 957336596
+      Tatoon_R02_C00: -1402418675
+      Tatoon_R02_C01: 1907555386
+      Tatoon_R02_C02: -1982183950
+      Tatoon_R02_C03: 1749758196
+      Tatoon_R02_C04: 1851544384
+      Tatoon_R02_C05: 447336931
+      Tatoon_R02_C06: 255484171
+      Tatoon_R02_C07: -405662979
+      Tatoon_R03_C00: -1957580364
+      Tatoon_R03_C01: 469868705
+      Tatoon_R03_C02: 1913242568
+      Tatoon_R03_C03: 589694261
+      Tatoon_R03_C04: -574360977
+      Tatoon_R03_C05: 602660250
+      Tatoon_R03_C06: -1672463346
+      Tatoon_R03_C07: 807750295
+      Tatoon_R04_C00: -1674533165
+      Tatoon_R04_C01: 1378168349
+      Tatoon_R04_C02: 1976105106
+      Tatoon_R04_C03: -1035802841
+      Tatoon_R04_C04: -2078942593
+      Tatoon_R04_C05: -2067534793
+      Tatoon_R04_C06: -248396713
+      Tatoon_R04_C07: -831535273
+      Tatoon_R05_C00: -1765613527
+      Tatoon_R05_C01: -1625478271
+      Tatoon_R05_C02: 1657731520
+      Tatoon_R05_C03: -1761180747
+      Tatoon_R05_C04: -1875779278
+      Tatoon_R05_C05: 2120944601
+      Tatoon_R05_C06: 74178080
+      Tatoon_R05_C07: -862176950
+      Tatoon_R06_C00: 1578288983
+      Tatoon_R06_C01: 1382730589
+      Tatoon_R06_C02: -111804524
+      Tatoon_R06_C03: 1949350259
+      Tatoon_R06_C04: -898455566
+      Tatoon_R06_C05: 1626808214
+      Tatoon_R06_C06: 475810026
+      Tatoon_R06_C07: -1159106681
+      Tatoon_R07_C00: -1817040776
+      Tatoon_R07_C01: 522390233
+      Tatoon_R07_C02: -772319261
+      Tatoon_R07_C03: 1857575949
+      Tatoon_R07_C04: -2137176857
+      Tatoon_R07_C05: 1924319971
+      Tatoon_R07_C06: 1388193089
+      Tatoon_R07_C07: -124891855
+      Tatoon_R08_C00: -1617610331
+      Tatoon_R08_C01: 792086637
+      Tatoon_R08_C02: 1120797670
+      Tatoon_R08_C03: 1264737181
+      Tatoon_R08_C04: 341261365
+      Tatoon_R08_C05: -1680540244
+      Tatoon_R08_C06: -255060385
+      Tatoon_R08_C07: 391649251
+      Tatoon_R09_C00: -1531928389
+      Tatoon_R09_C01: -2134949991
+      Tatoon_R09_C02: 1024423999
+      Tatoon_R09_C03: 899806451
+      Tatoon_R09_C04: 86063013
+      Tatoon_R09_C05: 2081971130
+      Tatoon_R09_C06: 1663501536
+      Tatoon_R09_C07: -854748220
+      Tatoon_R10_C00: 1286162720
+      Tatoon_R10_C01: 2019432093
+      Tatoon_R10_C02: -746375233
+      Tatoon_R10_C03: 1644985916
+      Tatoon_R10_C04: -1373920172
+      Tatoon_R10_C05: -267595311
+      Tatoon_R10_C06: 1183114404
+      Tatoon_R10_C07: 500508721
+      Tatoon_R11_C00: 1073646033
+      Tatoon_R11_C01: -463563850
+      Tatoon_R11_C02: 1387184731
+      Tatoon_R11_C03: 134693360
+      Tatoon_R11_C04: 1797918276
+      Tatoon_R11_C05: -1675049660
+      Tatoon_R11_C06: 1132010898
+      Tatoon_R11_C07: 879446207
+      Tatoon_R12_C00: -844057088
+      Tatoon_R12_C01: 2049156556
+      Tatoon_R12_C02: 1871892154
+      Tatoon_R12_C03: -845249419
+      Tatoon_R12_C04: 965153784
+      Tatoon_R12_C05: -1981307595
+      Tatoon_R12_C06: -841983596
+      Tatoon_R12_C07: 2050443442
+      Tatoon_R13_C00: 490628744
+      Tatoon_R13_C01: -145445104
+      Tatoon_R13_C02: -1742116656
+      Tatoon_R13_C03: 1028757210
+      Tatoon_R13_C04: -675961372
+      Tatoon_R13_C05: 1209513708
+      Tatoon_R13_C06: 930904722
+      Tatoon_R13_C07: 1436241741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2563 @@
+fileFormatVersion: 2
+guid: 540e14f15cf8a6944bf2e8874a2e6185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8884913164418115695
+    second: Lila_02_Tileset_0
+  - first:
+      213: -2334939074014280820
+    second: Lila_02_Tileset_1
+  - first:
+      213: 5206456066145723451
+    second: Lila_02_Tileset_2
+  - first:
+      213: -395334374484652581
+    second: Lila_02_Tileset_3
+  - first:
+      213: 708585168056879514
+    second: Lila_02_Tileset_4
+  - first:
+      213: 2062397857235379176
+    second: Lila_02_Tileset_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lila_Portrait
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1440
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9280a991b8b224ba4d576862fbe738
+      internalID: -1120387378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1339
+        width: 107
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d4dc427e9cc6428e2760c93fd1e5e
+      internalID: -623254666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1339
+        width: 108
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ef37b5cb3f27f4b9f4d7e2b56d139b
+      internalID: -810602656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1339
+        width: 116
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ef14d8ac5fa94e947d974a2341c51
+      internalID: -502019336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1339
+        width: 116
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940a39a5c2f5de49be40154126b20a9
+      internalID: 1744197942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1339
+        width: 108
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd417d841ba114481551be6101a59c
+      internalID: 555212004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1339
+        width: 109
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc316aaa9639364ab84980f1e4a72d3
+      internalID: 315103522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1339
+        width: 109
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658ecad47e00af49a3aafa3a1d1feac
+      internalID: 2028976337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1339
+        width: 110
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345f1cde989ed9429b9bd78e1aaf792
+      internalID: -1991542102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1238
+        width: 110
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daca9da10b7f2d488a303545aab4412
+      internalID: -2135594160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1238
+        width: 113
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d9a3932664c6d41980096f2648f110
+      internalID: -1548671858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1238
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92af91b81ce224d87771a18dcab394
+      internalID: -723333721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1239
+        width: 116
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41107e170bc3b4dba53142a63a8a43
+      internalID: -1745987527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1239
+        width: 110
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0d06b25c2d30498f7da0f8aa2fc96
+      internalID: 1103006073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1238
+        width: 115
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba50624ed7c9b4ba5dab04692ecc7e
+      internalID: -1400778167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1239
+        width: 114
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0794c65cf159dee45ab8442b2a091097
+      internalID: 225771692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1238
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d71196778f2911459d796f5eed5ba24
+      internalID: 738064629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1122
+        width: 104
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3903e6c63d71409e0e04cc08f060d
+      internalID: -412684347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1129
+        width: 121
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe106bb60664dc74d899cd6edfa2bd54
+      internalID: 699614751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1137
+        width: 111
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1a6d9d8ff5ea449b6a129510d29d0
+      internalID: 978586789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1142
+        width: 119
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d2b048726af34b8a03a45f3ea1a30
+      internalID: 525918670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1123
+        width: 105
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edb2edf3f5937a43850180e6f15c914
+      internalID: -1438624494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1122
+        width: 116
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf73d78ed72ca04469ff9e07a3b86ff8
+      internalID: 866181461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1122
+        width: 113
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f354c494fb8b046a99c3ab89a09e9a
+      internalID: -1784082680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1122
+        width: 110
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc463bea916f05468a5df7b1528f457
+      internalID: -634707781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1021
+        width: 113
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb976a83df75d5543b879347bb388a08
+      internalID: 2062634381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1021
+        width: 111
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d81411a57d0144790f9b9bf48ef2e2
+      internalID: 695344932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1021
+        width: 131
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557ab53f8ea0e474b90a83c78a1ea938
+      internalID: 281121870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1021
+        width: 125
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da01f22420b98847951c7a1e4b093c9
+      internalID: -167130447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1020
+        width: 108
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683174dd0c0cce438213cd14a3baaf5
+      internalID: -894859409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1020
+        width: 111
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7e3499192b2e4aa1a33220d1928f9
+      internalID: -1227149520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1020
+        width: 112
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d8da02611d2045b53e09421cb8b08
+      internalID: -1285754320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1020
+        width: 111
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20bc590fbeea874aa80160b7e5f383f
+      internalID: -1488950059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 910
+        width: 112
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41512836736d7d41bd85f1aa35a5961
+      internalID: 1809256190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 910
+        width: 117
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af18e3c7e1de7a4c9955efe91262980
+      internalID: 1379389717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 911
+        width: 136
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724dc5545e592644ca520fbbcd785c98
+      internalID: -302265986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 911
+        width: 117
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a01aae390e0144295da75c575cde75
+      internalID: -388239470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 911
+        width: 112
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09516d894ffe9dc43aad96300fc4a8c9
+      internalID: 1847296763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 910
+        width: 114
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff992c3bbbdbbb34a8dc1df27c22c762
+      internalID: 1467246589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 910
+        width: 114
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ddd28800b73f41936b938e1301795
+      internalID: 259182003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 910
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941bc2bc4dd5cef4393140170517c699
+      internalID: 2093765174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 814
+        width: 106
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d6293c430a8b4cac60f85c6c78150
+      internalID: 1836886759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 814
+        width: 120
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd6e55582f32994688c22c886e309bf
+      internalID: 177446553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 814
+        width: 124
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9456e7d729b2894e8626a549f5652b1
+      internalID: 386033726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 815
+        width: 123
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8dc59ec06a4ac40a0612d8104e3c4a
+      internalID: 1133504120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 814
+        width: 116
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9624fd4cd09e40ab0e5a68e75c50e
+      internalID: 450177187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 813
+        width: 113
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154ad2456ead0c4b9b002f72370fa0d
+      internalID: 2093682192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 813
+        width: 112
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c2f8763a4ab7469b695f2e52912ab
+      internalID: 1784847695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 814
+        width: 108
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91967154a331d0549b47f6ee5f60dcc7
+      internalID: -1450790217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 710
+        width: 109
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1440c113a62794c8bed8267c81fedf
+      internalID: -1672231653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 709
+        width: 114
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f1d671f9c80c54da8b4451fe529885
+      internalID: -821307899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 710
+        width: 136
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb5cc04a76fd74f9a21449c56787a3
+      internalID: 1611800622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 710
+        width: 124
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1505f0fc484ad24faf5bd4916608ad8
+      internalID: 82839469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 711
+        width: 111
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b2429b31fac64d8c524f436708346
+      internalID: -865072998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 709
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab749a78c15a7846ae0fb65226c9169
+      internalID: -1011905227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 709
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f3e921e1129e46a3dd0cd9a6f3399
+      internalID: -149163927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 709
+        width: 110
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7eaaecf24d5946923091e627bbbe7
+      internalID: 387356957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 600
+        width: 114
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e38719c0b252440a038a02f7dd1c94
+      internalID: -165881643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 600
+        width: 115
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a3a4ae29931ed4bae6a3986f5121f9
+      internalID: 383101171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 601
+        width: 118
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd2ad299b4cf74e9b48e90f7dead02
+      internalID: 1142884103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 607
+        width: 123
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc9c2bb899e3734995504d9afdf635a
+      internalID: -863959676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 599
+        width: 104
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ee5b3c7927c84892c12d2f4425939
+      internalID: 697082192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 593
+        width: 108
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59e3ef44c8c0e4cac63463468e0e54
+      internalID: 1997097141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 593
+        width: 114
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71dc5d9e3ffbf4cbccaa784812026e
+      internalID: -1493753771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 594
+        width: 100
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda78df370a84041b9d3222300bb7f5
+      internalID: 1298160720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 482
+        width: 111
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e7199545edaeb4e89e379ae145b3ab
+      internalID: 128836673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 483
+        width: 104
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e64e713780004ba0523d8934fd3ef
+      internalID: 525097330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 483
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa68ffecb9583241acb67d100f266ce
+      internalID: 2055313521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 483
+        width: 115
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ff6ba215c89a4cb8c5cbef6dc744d
+      internalID: 1639466630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 482
+        width: 109
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9f8f6a909e6b48ae1fcddf8d6cddd
+      internalID: -1775814896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 481
+        width: 107
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8cd877fcbcc9a41a5a3ee8ea8f9b0d
+      internalID: 1764799335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 480
+        width: 110
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64243a6df91c77642a1dd9e91bbc8a8d
+      internalID: 191796418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 480
+        width: 108
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81e704b16a0524b9e883cb7901d469
+      internalID: 992926839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 378
+        width: 109
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d719fa515a364c834e51ca3709b6f
+      internalID: 1334505289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 378
+        width: 110
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd9aaf1b641d140a0480599c433d12
+      internalID: -1629585888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 378
+        width: 109
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c953a303e117984f964622953838180
+      internalID: 1813809613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 378
+        width: 112
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121ac6854045df4abc3c5d51cc15c17
+      internalID: 1452936277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 378
+        width: 109
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd71e88250fac4a822b5cc35cbd5f4
+      internalID: 813884508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 377
+        width: 111
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a9921c22d669409a5eb7093562076
+      internalID: -365228969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 377
+        width: 109
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d87834ea2c0aa43a149ad90b5ac0af
+      internalID: -1787149007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 377
+        width: 109
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e43f7a7410ab4eb6cc2b33a1022a1
+      internalID: 1167412906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 105
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22b60b2de0e0d44b91fb0487f0dcaa
+      internalID: -2130522110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 258
+        width: 103
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa28d3fb3f8494c88e70c74bc4b19b
+      internalID: -1469200659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 262
+        width: 108
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe9877cb90cf6041bde7fab39ad4658
+      internalID: 132364790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 273
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc99b61001abde4292c63943f29a234
+      internalID: -2144614030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 273
+        width: 108
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed98c7e6492ec41b94658327c40baa
+      internalID: -791805413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 257
+        width: 110
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719fce6cb5d1db449ae18dc8b4d0410
+      internalID: 854543578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 257
+        width: 114
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83af0904a9d8594f9db1d207d09f5e3
+      internalID: 751897962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 257
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8894d2cab8ebd6344a151065565a3bfb
+      internalID: 1042725922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 151
+        width: 112
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac4180f2e50c44a88e8f76f6e4de1f
+      internalID: 507286430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 151
+        width: 117
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc8cbe655dfc642a7bbfad13b4be21
+      internalID: -218390789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 152
+        width: 121
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03df0d5c96e8f4db7a9891172c2215
+      internalID: 2067526630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 151
+        width: 115
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ac50fad724ae54ebc235119e1bf28f
+      internalID: -1322570116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 152
+        width: 120
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b535b309f9164c9c92a8ac55fa2d9
+      internalID: -92079978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 151
+        width: 118
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258927564ca1ec548b3984fcad5bc89c
+      internalID: 255760140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 151
+        width: 117
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036eb590171e534ca688d1bf506cdf0
+      internalID: 1364273678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 151
+        width: 115
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f950cac77112e418c2b95d7e447305
+      internalID: -684605687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 125
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2dfde0ef7b83438a3611a634f9715
+      internalID: -1690280393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 28
+        width: 126
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1345a4728933354ca898db69689cb62
+      internalID: -1164679727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C02
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 127
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec5682e9c243f4c9f7e7a659b6c376
+      internalID: 1639354919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C03
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 48
+        width: 125
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5666871d148147ae012194305f06b
+      internalID: 1418806108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C04
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 31
+        width: 120
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd68a3fd675614459b14348de8ef1a9
+      internalID: 1602599834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C05
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 31
+        width: 123
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086cc1573cef6044fa1a6ab4ac16205f
+      internalID: 1675368034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C06
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 30
+        width: 124
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2ca55504f42f4ebdeb16a94cacc14
+      internalID: 2100007597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lila_R13_C07
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 29
+        width: 118
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb094dba175894c998844e16ef0b05
+      internalID: 2120486006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc2565a59206ea74fbbacae2e2388a7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lila_Portrait: -1120387378
+      Lila_R01_C00: -623254666
+      Lila_R01_C01: -810602656
+      Lila_R01_C02: -502019336
+      Lila_R01_C03: 1744197942
+      Lila_R01_C04: 555212004
+      Lila_R01_C05: 315103522
+      Lila_R01_C06: 2028976337
+      Lila_R01_C07: -1991542102
+      Lila_R02_C00: -2135594160
+      Lila_R02_C01: -1548671858
+      Lila_R02_C02: -723333721
+      Lila_R02_C03: -1745987527
+      Lila_R02_C04: 1103006073
+      Lila_R02_C05: -1400778167
+      Lila_R02_C06: 225771692
+      Lila_R02_C07: 738064629
+      Lila_R03_C00: -412684347
+      Lila_R03_C01: 699614751
+      Lila_R03_C02: 978586789
+      Lila_R03_C03: 525918670
+      Lila_R03_C04: -1438624494
+      Lila_R03_C05: 866181461
+      Lila_R03_C06: -1784082680
+      Lila_R03_C07: -634707781
+      Lila_R04_C00: 2062634381
+      Lila_R04_C01: 695344932
+      Lila_R04_C02: 281121870
+      Lila_R04_C03: -167130447
+      Lila_R04_C04: -894859409
+      Lila_R04_C05: -1227149520
+      Lila_R04_C06: -1285754320
+      Lila_R04_C07: -1488950059
+      Lila_R05_C00: 1809256190
+      Lila_R05_C01: 1379389717
+      Lila_R05_C02: -302265986
+      Lila_R05_C03: -388239470
+      Lila_R05_C04: 1847296763
+      Lila_R05_C05: 1467246589
+      Lila_R05_C06: 259182003
+      Lila_R05_C07: 2093765174
+      Lila_R06_C00: 1836886759
+      Lila_R06_C01: 177446553
+      Lila_R06_C02: 386033726
+      Lila_R06_C03: 1133504120
+      Lila_R06_C04: 450177187
+      Lila_R06_C05: 2093682192
+      Lila_R06_C06: 1784847695
+      Lila_R06_C07: -1450790217
+      Lila_R07_C00: -1672231653
+      Lila_R07_C01: -821307899
+      Lila_R07_C02: 1611800622
+      Lila_R07_C03: 82839469
+      Lila_R07_C04: -865072998
+      Lila_R07_C05: -1011905227
+      Lila_R07_C06: -149163927
+      Lila_R07_C07: 387356957
+      Lila_R08_C00: -165881643
+      Lila_R08_C01: 383101171
+      Lila_R08_C02: 1142884103
+      Lila_R08_C03: -863959676
+      Lila_R08_C04: 697082192
+      Lila_R08_C05: 1997097141
+      Lila_R08_C06: -1493753771
+      Lila_R08_C07: 1298160720
+      Lila_R09_C00: 128836673
+      Lila_R09_C01: 525097330
+      Lila_R09_C02: 2055313521
+      Lila_R09_C03: 1639466630
+      Lila_R09_C04: -1775814896
+      Lila_R09_C05: 1764799335
+      Lila_R09_C06: 191796418
+      Lila_R09_C07: 992926839
+      Lila_R10_C00: 1334505289
+      Lila_R10_C01: -1629585888
+      Lila_R10_C02: 1813809613
+      Lila_R10_C03: 1452936277
+      Lila_R10_C04: 813884508
+      Lila_R10_C05: -365228969
+      Lila_R10_C06: -1787149007
+      Lila_R10_C07: 1167412906
+      Lila_R11_C00: -2130522110
+      Lila_R11_C01: -1469200659
+      Lila_R11_C02: 132364790
+      Lila_R11_C03: -2144614030
+      Lila_R11_C04: -791805413
+      Lila_R11_C05: 854543578
+      Lila_R11_C06: 751897962
+      Lila_R11_C07: 1042725922
+      Lila_R12_C00: 507286430
+      Lila_R12_C01: -218390789
+      Lila_R12_C02: 2067526630
+      Lila_R12_C03: -1322570116
+      Lila_R12_C04: -92079978
+      Lila_R12_C05: 255760140
+      Lila_R12_C06: 1364273678
+      Lila_R12_C07: -684605687
+      Lila_R13_C00: -1690280393
+      Lila_R13_C01: -1164679727
+      Lila_R13_C02: 1639354919
+      Lila_R13_C03: 1418806108
+      Lila_R13_C04: 1602599834
+      Lila_R13_C05: 1675368034
+      Lila_R13_C06: 2100007597
+      Lila_R13_C07: 2120486006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

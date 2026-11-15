@@ -1,0 +1,12 @@
+ESCENARIO 02 — FRENTE A LA CASA ROSADA (pixel art 16-bit)
+
+Orden de capas, de fondo a frente:
+01_Cielo.png                 velocidad parallax sugerida: 0.05
+02_Ciudad_lejana.png         velocidad parallax sugerida: 0.12
+03_Casa_Rosada.png           velocidad parallax sugerida: 0.20
+04_Plaza_de_Mayo.png         velocidad parallax sugerida: 0.55
+05_Piso_de_lucha.png         velocidad parallax sugerida: 1.00
+
+La capa 01 es opaca; las capas 02 a 05 tienen transparencia.
+Ajustar escala y posición en el motor para centrar la Casa Rosada y alinear
+el piso de combate con la línea de pies de los personajes.

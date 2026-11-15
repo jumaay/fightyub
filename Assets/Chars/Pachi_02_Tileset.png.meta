@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: e1e3a955fe599ee4ca95c8cda40ca366
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8972390779596421144
+    second: Pachi_02_Tileset_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pachi_Portrait
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1424
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385daac919e04f40b536c6fa4c2ce12
+      internalID: 229014150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1322
+        width: 110
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1cac4b7900a84ea536cc4c36c6c1e
+      internalID: 1495185576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1322
+        width: 112
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3bb83493f6d9a4ca4547a0054e660d
+      internalID: 1997940911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C02
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1322
+        width: 110
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bec435675dc7a42a6d12cfcdc84555
+      internalID: 454957440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C03
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1322
+        width: 108
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8c0a86dd16794eb9ccb887e17d45a
+      internalID: -1028615460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C04
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1321
+        width: 111
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730d5460a8e65c44854034d4dcec3f5
+      internalID: -2068753706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C05
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1322
+        width: 110
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad247653e08ace43a7e9248262a8a9d
+      internalID: -1126033681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C06
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1322
+        width: 112
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e4dece80f9914180ab41e7a90224b
+      internalID: 1100017848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R01_C07
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1321
+        width: 113
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe3b76f74dbef418014f3ee1c6c34b
+      internalID: 1857071565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1219
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f04771180f8442832033bf240cb91
+      internalID: -1526222823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1219
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e321745e4e05478787f604cfc2093
+      internalID: 62708106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C02
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1219
+        width: 110
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78b857a8d4e6564288dad9459615dc4
+      internalID: -2046801572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C03
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1219
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9519fd67b67f6f4f9cae5ceb1929170
+      internalID: 70571675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C04
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1219
+        width: 109
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b3e1d653ec6b488ce7b96d3e4817e
+      internalID: 474980975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C05
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1219
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac26ab2104fe24bb0a18b50b239857
+      internalID: -1817105445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C06
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1219
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89625ee615c1e94da940babbbcb77b8
+      internalID: 1271836504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R02_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1219
+        width: 112
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b88c501108d647af0899e452123e7
+      internalID: -24069055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1095
+        width: 110
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a158d47f3c10f24584f27e635918c50
+      internalID: 1378886053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1096
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527bb8e79fb99d4b8314376fbe2f852
+      internalID: 1993023306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C02
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1107
+        width: 108
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57f8c3759d4ff4f9c6e931f034831f
+      internalID: -1165898635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1112
+        width: 107
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0f2a3470fb024fb1f6a2e4d92813a
+      internalID: -1006500379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C04
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1119
+        width: 113
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad8469af464f34f967caba75e2af5b
+      internalID: -1421976727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C05
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1127
+        width: 117
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87896906153c0e45931a56222402496
+      internalID: -1686248823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1096
+        width: 111
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafc8c8dc8a63e469e2a13ef1151a3d
+      internalID: 1556523132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R03_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1095
+        width: 110
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8467d16d0e0822d40bc451d21a6256b1
+      internalID: -233410663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 987
+        width: 110
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8ef1cd2bce2941bb89b68ed0ecdb0
+      internalID: -1643797998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 987
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94511a8fc1f8c945b8adce8665e001a
+      internalID: -578506007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 986
+        width: 105
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7608fad368f6e4ca1ac6db52b0e571
+      internalID: 1593804829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 984
+        width: 112
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858dcbf407d0f6d4c806afd2d08edde5
+      internalID: -1784522087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 991
+        width: 111
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970d8a3a9ca7d547a100aa4c4815c1a
+      internalID: 2025607093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C05
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 990
+        width: 95
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf7a74ef21a394bb1961fea7d9d696
+      internalID: -1867394451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C06
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 987
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af07ecd41c6a6e49944376fa0bd44dd
+      internalID: -803353307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R04_C07
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 987
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d8f10b25d72442aef5ea289e381b4
+      internalID: -1134997878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 881
+        width: 111
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e767f2c7ec8134cb6890d869acae8e
+      internalID: 242297683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 882
+        width: 111
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936ae85f20987f4484eb9c395df770f
+      internalID: 626346289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 880
+        width: 97
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40326cefbd75f4745af1af567c37f048
+      internalID: -1138566263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C03
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 875
+        width: 108
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08997054bdc301448f004016d6e7440
+      internalID: 393590377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 880
+        width: 110
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe258cbd486b642adceabe516fbcc7
+      internalID: -580107161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C05
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 880
+        width: 103
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d302194ae70afb74d9f5e9648606bf7b
+      internalID: -1944963066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 881
+        width: 113
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ab5a128c8bf842b9ee6847075b145
+      internalID: -1477422276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R05_C07
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 881
+        width: 112
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa773260fc2ca4b45b38b5bb53d93a16
+      internalID: -1486911303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 780
+        width: 112
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143227a56a58e94d88536e05f2dc75e
+      internalID: 580809975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C01
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 780
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca7e1c803d21c438655dfdadda01e5
+      internalID: -19348017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C02
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 774
+        width: 112
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c333b2f7a8618ab4e8cd9e33dd6a416b
+      internalID: -1641590115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C03
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 773
+        width: 110
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac6e2765571dd499ebe8fe229da232
+      internalID: 1235920552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C04
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 774
+        width: 112
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4f709e8370e048802579d37533307
+      internalID: 2109843621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 774
+        width: 109
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc87ca86e54564fb073e037dc01321
+      internalID: 970283567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C06
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 777
+        width: 113
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1f65fc1d3c4f4096f795f4504f581
+      internalID: 149859860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R06_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 781
+        width: 111
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86766f5f6a0b4547bc07c061506ca9c
+      internalID: -960146853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 665
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76772ee9277e24a4ab014b191c5870c3
+      internalID: 1819607682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C01
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 665
+        width: 111
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c208f6b86a1ac4ea7667ba1f8ffa6f
+      internalID: 1831117733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 659
+        width: 111
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25359dbc9adab5c4f8cf7de58e059a16
+      internalID: 554480224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C03
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 656
+        width: 111
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f14b9e3441b86438f0ea859c068efc
+      internalID: -10812443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 670
+        width: 110
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f718db0f1626e44c8dc526a18728f7f
+      internalID: 61652970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 670
+        width: 108
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae9b5c3ecdac147a0277d8c0e77f96
+      internalID: -875436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C06
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 656
+        width: 109
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d89b571ef484a4b93d55becd8bf659
+      internalID: 2076984684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R07_C07
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 660
+        width: 107
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de59e54a3067748bbd999a7ff29f94
+      internalID: 700665249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C00
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 556
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db9e2d253eb8c4db0972d81fb02b44
+      internalID: -101193601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C01
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 550
+        width: 126
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90470b498d3582f48b3b17e15f9e4766
+      internalID: -1945574712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C02
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 544
+        width: 118
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589167d82d6e40c4e8f5e2894af1886f
+      internalID: -1099770623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C03
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 537
+        width: 114
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219bdcfbbe7bb44a882df8bd03e6b35
+      internalID: 541476310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C04
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 545
+        width: 108
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245d58e4ec4e074c9b42898dbd43ddb
+      internalID: -882351764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C05
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 538
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e60b7c954b8e45a84128f37ec0da3
+      internalID: 2026391949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C06
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 537
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77abf83a0e2b14c9e4437669f8eb27
+      internalID: 425505725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R08_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 544
+        width: 110
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d70d060e6dda445ab80867d13dd127
+      internalID: 503894358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 432
+        width: 110
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555dbe951e82f34c88f4f0f44e2b5ee
+      internalID: 1882111513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 429
+        width: 107
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6e461a256d8a4abb96c71debc1783
+      internalID: -425971270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 426
+        width: 98
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429adcfa9e9bc443bbc88988e67af63
+      internalID: 2035273212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 426
+        width: 96
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c0c7d66f913746bab8cac53ddf4a3
+      internalID: 1955812922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C04
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 425
+        width: 99
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcfb280645d4014aa1bb91bd89843bd
+      internalID: 1331994834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C05
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 429
+        width: 82
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc3eb73a9887e4594574dbd77855c8
+      internalID: -2123142991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C06
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 429
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69a30979491744ca05d077e68a8116
+      internalID: -1928929024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R09_C07
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 432
+        width: 110
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344dfec196cd174419cdff30a01d2f8e
+      internalID: -205172495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 322
+        width: 110
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb2f7782279c345a03f5e38a8c14c8
+      internalID: -207136992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 321
+        width: 109
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b7bd971cabab4c9d41efbd839ce15
+      internalID: -2116345650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 107
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5089adfb0b61a4a498ff87222096f86c
+      internalID: 1509883686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 321
+        width: 110
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a0ed7a3d6b884eb6f2a4b0eef6d6c
+      internalID: 1131639669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C04
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 317
+        width: 109
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40667562bceb51488131445579d8404
+      internalID: -665619490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C05
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 319
+        width: 87
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd5b803012fcd46b674d013b4e7d93
+      internalID: 1833609643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C06
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 319
+        width: 109
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375a62fa91e5bc4fbe2083402feeb4e
+      internalID: 1540830484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R10_C07
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 322
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d01486cbd8194db032e5925ff581c
+      internalID: 1484767576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 108
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc21c1ec301014c9e5170135221771
+      internalID: -1422157658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C01
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 208
+        width: 105
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b8744aa0ad424a8f37385ac4d744d
+      internalID: 1488189883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C02
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 209
+        width: 103
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc220de1e2ad88243a4d8de86bfeeac8
+      internalID: 1331954798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C03
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 210
+        width: 98
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9686d5e6cb52a419b3a1c08e43579c
+      internalID: 1842244929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C04
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 216
+        width: 105
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bfaba1e60f20a42a065dbfd9784b61
+      internalID: -993276500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 211
+        width: 87
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e7217cb2fc9042804ab233e2545f9
+      internalID: -1722546981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C06
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 205
+        width: 108
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159259bc2ef58b0438b9ff66b59030f0
+      internalID: 1420288747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R11_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 203
+        width: 106
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eac1a3b950cd7429a20a2a6f38dd3a
+      internalID: -722497812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C00
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 113
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ab05b216521d4f86bd3484b89378f
+      internalID: 829423836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C01
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 111
+        width: 114
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2176c5f26b8f468125ed7d965827e
+      internalID: -297985000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 110
+        width: 112
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54849420d863d8342850d7a609ce3fae
+      internalID: 350635158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C03
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 110
+        width: 114
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db1cda893cb5342a00b462ab897b24
+      internalID: -641590690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C04
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 110
+        width: 115
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3f2c61eb99330448dd9df2fab0c5d1
+      internalID: -486347958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 111
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408770a959669f441a5de27b61f21497
+      internalID: -1061934710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C06
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 110
+        width: 112
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c364bb0c438e42a34153283ff0931
+      internalID: -2018065116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R12_C07
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 109
+        width: 114
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c9c28a2325ff44a31c98b052838fb
+      internalID: 1691168276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 117
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a035a88bff10b42a9a7c47b393d3c4
+      internalID: -997430027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C01
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 122
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12bb0e9757d354cb6b0804eac00cc1
+      internalID: 686232366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 16
+        width: 117
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278423a3d54bd5f43885800a2eb8bc5e
+      internalID: 2120163690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C03
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 27
+        width: 121
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c959b046e78924eb89b6942f736936
+      internalID: 2003578744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C04
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 119
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ec0701f804e94b87d76cf0bfcfa56
+      internalID: 590233604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C05
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 12
+        width: 115
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b18339a17bb804ab9b273855d6c872
+      internalID: -1516228958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 19
+        width: 120
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384f77e85ac4c44baf26e20cd472279
+      internalID: 1999181905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pachi_R13_C07
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 14
+        width: 119
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5846e107af239041a525e568889ea9e
+      internalID: -1569072269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5ad770c856a3374abd08a0d6e9c2cfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pachi_Portrait: 229014150
+      Pachi_R01_C00: 1495185576
+      Pachi_R01_C01: 1997940911
+      Pachi_R01_C02: 454957440
+      Pachi_R01_C03: -1028615460
+      Pachi_R01_C04: -2068753706
+      Pachi_R01_C05: -1126033681
+      Pachi_R01_C06: 1100017848
+      Pachi_R01_C07: 1857071565
+      Pachi_R02_C00: -1526222823
+      Pachi_R02_C01: 62708106
+      Pachi_R02_C02: -2046801572
+      Pachi_R02_C03: 70571675
+      Pachi_R02_C04: 474980975
+      Pachi_R02_C05: -1817105445
+      Pachi_R02_C06: 1271836504
+      Pachi_R02_C07: -24069055
+      Pachi_R03_C00: 1378886053
+      Pachi_R03_C01: 1993023306
+      Pachi_R03_C02: -1165898635
+      Pachi_R03_C03: -1006500379
+      Pachi_R03_C04: -1421976727
+      Pachi_R03_C05: -1686248823
+      Pachi_R03_C06: 1556523132
+      Pachi_R03_C07: -233410663
+      Pachi_R04_C00: -1643797998
+      Pachi_R04_C01: -578506007
+      Pachi_R04_C02: 1593804829
+      Pachi_R04_C03: -1784522087
+      Pachi_R04_C04: 2025607093
+      Pachi_R04_C05: -1867394451
+      Pachi_R04_C06: -803353307
+      Pachi_R04_C07: -1134997878
+      Pachi_R05_C00: 242297683
+      Pachi_R05_C01: 626346289
+      Pachi_R05_C02: -1138566263
+      Pachi_R05_C03: 393590377
+      Pachi_R05_C04: -580107161
+      Pachi_R05_C05: -1944963066
+      Pachi_R05_C06: -1477422276
+      Pachi_R05_C07: -1486911303
+      Pachi_R06_C00: 580809975
+      Pachi_R06_C01: -19348017
+      Pachi_R06_C02: -1641590115
+      Pachi_R06_C03: 1235920552
+      Pachi_R06_C04: 2109843621
+      Pachi_R06_C05: 970283567
+      Pachi_R06_C06: 149859860
+      Pachi_R06_C07: -960146853
+      Pachi_R07_C00: 1819607682
+      Pachi_R07_C01: 1831117733
+      Pachi_R07_C02: 554480224
+      Pachi_R07_C03: -10812443
+      Pachi_R07_C04: 61652970
+      Pachi_R07_C05: -875436236
+      Pachi_R07_C06: 2076984684
+      Pachi_R07_C07: 700665249
+      Pachi_R08_C00: -101193601
+      Pachi_R08_C01: -1945574712
+      Pachi_R08_C02: -1099770623
+      Pachi_R08_C03: 541476310
+      Pachi_R08_C04: -882351764
+      Pachi_R08_C05: 2026391949
+      Pachi_R08_C06: 425505725
+      Pachi_R08_C07: 503894358
+      Pachi_R09_C00: 1882111513
+      Pachi_R09_C01: -425971270
+      Pachi_R09_C02: 2035273212
+      Pachi_R09_C03: 1955812922
+      Pachi_R09_C04: 1331994834
+      Pachi_R09_C05: -2123142991
+      Pachi_R09_C06: -1928929024
+      Pachi_R09_C07: -205172495
+      Pachi_R10_C00: -207136992
+      Pachi_R10_C01: -2116345650
+      Pachi_R10_C02: 1509883686
+      Pachi_R10_C03: 1131639669
+      Pachi_R10_C04: -665619490
+      Pachi_R10_C05: 1833609643
+      Pachi_R10_C06: 1540830484
+      Pachi_R10_C07: 1484767576
+      Pachi_R11_C00: -1422157658
+      Pachi_R11_C01: 1488189883
+      Pachi_R11_C02: 1331954798
+      Pachi_R11_C03: 1842244929
+      Pachi_R11_C04: -993276500
+      Pachi_R11_C05: -1722546981
+      Pachi_R11_C06: 1420288747
+      Pachi_R11_C07: -722497812
+      Pachi_R12_C00: 829423836
+      Pachi_R12_C01: -297985000
+      Pachi_R12_C02: 350635158
+      Pachi_R12_C03: -641590690
+      Pachi_R12_C04: -486347958
+      Pachi_R12_C05: -1061934710
+      Pachi_R12_C06: -2018065116
+      Pachi_R12_C07: 1691168276
+      Pachi_R13_C00: -997430027
+      Pachi_R13_C01: 686232366
+      Pachi_R13_C02: 2120163690
+      Pachi_R13_C03: 2003578744
+      Pachi_R13_C04: 590233604
+      Pachi_R13_C05: -1516228958
+      Pachi_R13_C06: 1999181905
+      Pachi_R13_C07: -1569072269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
